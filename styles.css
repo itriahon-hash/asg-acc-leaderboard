@@ -892,3 +892,45 @@ body.modal-open {
     padding: 12px 14px;
   }
 }
+.hero-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-video-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.hero-video-bg iframe {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 177.78vh;
+  height: 56.25vw;
+  min-width: 100%;
+  min-height: 100%;
+  transform: translate(-50%, -50%) scale(1.08);
+  border: 0;
+}
+
+.hero-video-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background:
+    linear-gradient(
+      180deg,
+      rgba(11, 15, 20, 0.45) 0%,
+      rgba(11, 15, 20, 0.72) 60%,
+      rgba(11, 15, 20, 0.88) 100%
+    );
+}
+
+.hero-grid,
+.lang-switch {
+  position: relative;
+  z-index: 2;
+}
