@@ -475,16 +475,63 @@ tbody tr:last-child td { border-bottom: none; }
 .muted { color: var(--muted); }
 
 .footer {
-  padding: 34px 0 50px;
-  color: var(--muted);
-  font-size: 13px;
+  padding: 26px 0 42px;
 }
 
-.footer-card {
-  background: rgba(255,255,255,0.02);
+.footer-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  border-top: 1px solid var(--line);
+  padding-top: 18px;
+  color: var(--muted);
+}
+
+.footer-left {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.footer-brand {
+  color: var(--text);
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.footer-text {
+  font-size: 13px;
+  line-height: 1.5;
+  max-width: 760px;
+}
+
+.footer-links {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.footer-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 38px;
+  padding: 0 14px;
+  border-radius: 12px;
   border: 1px solid var(--line);
-  border-radius: 20px;
-  padding: 18px 20px;
+  background: rgba(255,255,255,0.03);
+  color: var(--text);
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 700;
+  transition: 0.2s ease;
+}
+
+.footer-links a:hover {
+  transform: translateY(-1px);
+  background: rgba(255,255,255,0.06);
 }
 
 .empty-box {
@@ -598,6 +645,19 @@ tbody tr:last-child td { border-bottom: none; }
     padding: 0 10px;
   }
   .lang-text { display: none; }
+
+  .footer-inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .footer-links {
+    width: 100%;
+  }
+
+  .footer-links a {
+    flex: 1 1 auto;
+  }
 }
 .hero-side-compact {
   display: flex;
@@ -629,30 +689,31 @@ tbody tr:last-child td { border-bottom: none; }
 
 .btn-today-stats {
   position: relative;
-  width: 100%;
+  display: inline-flex;
+  align-items: center;
   justify-content: center;
+  width: 100%;
   text-align: center;
-  font-weight: 800;
+  font-weight: 900;
   letter-spacing: 0.02em;
-  padding: 14px 18px;
+  padding: 15px 18px;
   border-radius: 16px;
-  border: 1px solid rgba(255, 255, 255, 0.16);
-  background:
-    linear-gradient(135deg, rgba(255, 184, 77, 0.18), rgba(255, 107, 107, 0.16)),
-    rgba(255, 255, 255, 0.06);
-  color: var(--text);
+  border: 1px solid rgba(255, 184, 77, 0.26);
+  background: linear-gradient(135deg, #ff8a00, #ff5b2e);
+  color: #fff;
   box-shadow:
-    0 0 0 1px rgba(255, 184, 77, 0.14) inset,
-    0 10px 30px rgba(255, 140, 0, 0.16);
-  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+    0 0 0 1px rgba(255,255,255,0.08) inset,
+    0 12px 28px rgba(255, 91, 46, 0.30);
+  cursor: pointer;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, filter 0.18s ease;
 }
 
 .btn-today-stats:hover {
-  transform: translateY(-1px);
-  border-color: rgba(255, 184, 77, 0.34);
+  transform: translateY(-2px);
+  filter: brightness(1.05);
   box-shadow:
-    0 0 0 1px rgba(255, 184, 77, 0.2) inset,
-    0 14px 34px rgba(255, 140, 0, 0.22);
+    0 0 0 1px rgba(255,255,255,0.12) inset,
+    0 16px 34px rgba(255, 91, 46, 0.38);
 }
 
 .pulse-attention {

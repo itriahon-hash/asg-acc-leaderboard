@@ -27,6 +27,7 @@ todayAvgPlayers: "Avg players per race",
 todayTracks: "Tracks raced today",
 todayBestLap: "Best lap today",
 todayMostActive: "Most active driver",
+todayMostSuccessful: "Most successful driver",
     htmlLang: "en",
     pageTitle: "ASG Racing ACC Leaderboard | Assetto Corsa Competizione Stats",
     metaDescription: "ASG Racing ACC Leaderboard — race stats, wins, podiums and best laps from the public Assetto Corsa Competizione server.",
@@ -751,15 +752,6 @@ const TODAY_STATS = {
   updated_at: "2026-03-13T20:12:19"
 };
 
-function escapeHtml(value) {
-  return String(value ?? "")
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#039;");
-}
-
 function formatDateTimeLocal(isoString, lang = "en") {
   if (!isoString) return "—";
 
@@ -787,8 +779,8 @@ function findDriverNameByPlayerId(playerId) {
     return TODAY_STATS.most_successful_driver_today.driver;
   }
 
-  if (window.leaderboardData && Array.isArray(window.leaderboardData)) {
-    const found = window.leaderboardData.find(item => item.player_id === playerId || item.playerId === playerId);
+  if (Array.isArray(leaderboardData)) {
+    const found = leaderboardData.find(item => item.player_id === playerId || item.playerId === playerId);
     if (found) return found.driver || found.name || found.player || null;
   }
 
