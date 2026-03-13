@@ -644,5 +644,22 @@
     "last_track": "monza",
     "last_seen": "2026-03-13T15:38:47",
     "rank": 38
+  },
+  {
+    "player_id": "S76561199085700385",
+    "driver": "Arda Eroğlu",
+    "races": 0,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 0,
+    "average_finish": null,
+    "best_lap_ms": 109182,
+    "best_lap": "1:49.182",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "Q",
+    "last_track": null,
+    "last_seen": null,
+    "rank": 39
   }
 ]
