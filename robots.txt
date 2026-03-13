@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://itriahon-hash.github.io/asg-acc-leaderboard/sitemap.xml
+Sitemap: https://asgracing.github.io/top/sitemap.xml
