@@ -1,31 +1,31 @@
 {
   "date": "2026-03-13",
-  "unique_players_today": 89,
-  "races_today": 10,
-  "sessions_today": 21,
-  "points_earned_today": 877,
-  "wins_today": 10,
-  "podiums_today": 28,
-  "avg_players_per_race_today": 12.5,
+  "unique_players_today": 97,
+  "races_today": 11,
+  "sessions_today": 22,
+  "points_earned_today": 979,
+  "wins_today": 11,
+  "podiums_today": 31,
+  "avg_players_per_race_today": 14.0,
   "tracks_raced_today": [
     "monza"
   ],
   "best_lap_today": {
-    "lap": "1:47.175",
-    "lap_ms": 107175,
-    "driver": "Denis Denalget [ASG]",
-    "player_id": "S76561198179725961",
+    "lap": "1:46.980",
+    "lap_ms": 106980,
+    "driver": "Man in Tights",
+    "player_id": "S76561198345280292",
     "track": "monza",
     "session_type": "R"
   },
   "most_active_driver_today": {
     "player_id": "S76561197983024493",
-    "races": 8
+    "races": 9
   },
   "most_successful_driver_today": {
     "player_id": "S76561199664057628",
     "driver": "Arsenii Kapustin",
     "points": 171
   },
-  "updated_at": "2026-03-13T21:32:19"
+  "updated_at": "2026-03-13T21:37:19"
 }
