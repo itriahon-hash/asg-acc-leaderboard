@@ -1,31 +1,22 @@
 {
-  "date": "2026-03-13",
-  "unique_players_today": 180,
-  "races_today": 14,
-  "sessions_today": 29,
-  "points_earned_today": 1285,
-  "wins_today": 14,
-  "podiums_today": 40,
-  "avg_players_per_race_today": 20.21,
-  "tracks_raced_today": [
-    "monza"
-  ],
+  "date": "2026-03-14",
+  "unique_players_today": 0,
+  "races_today": 0,
+  "sessions_today": 0,
+  "points_earned_today": 0,
+  "wins_today": 0,
+  "podiums_today": 0,
+  "avg_players_per_race_today": 0,
+  "tracks_raced_today": [],
   "best_lap_today": {
-    "lap": "1:46.722",
-    "lap_ms": 106722,
-    "driver": "Man in Tights",
-    "player_id": "S76561198345280292",
-    "track": "monza",
-    "session_type": "R"
+    "lap": null,
+    "lap_ms": null,
+    "driver": null,
+    "player_id": null,
+    "track": null,
+    "session_type": null
   },
-  "most_active_driver_today": {
-    "player_id": "S76561197983024493",
-    "races": 12
-  },
-  "most_successful_driver_today": {
-    "player_id": "S76561199664057628",
-    "driver": "Arsenii Kapustin",
-    "points": 171
-  },
-  "updated_at": "2026-03-13T23:57:19"
+  "most_active_driver_today": null,
+  "most_successful_driver_today": null,
+  "updated_at": "2026-03-14T00:02:19"
 }
