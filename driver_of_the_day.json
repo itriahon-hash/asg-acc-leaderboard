@@ -2,12 +2,12 @@
   "date": "2026-03-15",
   "driver": "Alexey Shustov",
   "player_id": "S76561198022114236",
-  "points": 28,
-  "races": 2,
-  "wins": 0,
-  "average_finish": 3.5,
-  "best_lap": "1:49.095",
-  "best_lap_ms": 109095,
+  "points": 53,
+  "races": 3,
+  "wins": 1,
+  "average_finish": 2.67,
+  "best_lap": "1:49.050",
+  "best_lap_ms": 109050,
   "best_lap_track": "monza",
-  "updated_at": "2026-03-15T01:27:20"
+  "updated_at": "2026-03-15T01:32:20"
 }
