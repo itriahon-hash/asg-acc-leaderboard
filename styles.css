@@ -1,5 +1,5 @@
 :root {
-  /* ===== COLOR TOKENS ===== */
+  /* ===== DESIGN TOKENS ===== */
   --bg: #0b0f14;
   --bg-soft: #121922;
   --card: rgba(18, 25, 34, 0.9);
@@ -16,13 +16,11 @@
   --bronze: #d28b5f;
   --green: #39d98a;
 
-  /* ===== SHARED UI TOKENS ===== */
   --shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
   --radius: 22px;
 }
 
 /* ===== RESET / BASE ===== */
-
 
 * {
   box-sizing: border-box;
@@ -216,8 +214,8 @@ body {
 
 .hero-grid {
   display: grid;
-  grid-template-columns: 1.4fr 0.6fr;
-  gap: 24px;
+  grid-template-columns: minmax(0, 1.45fr) minmax(300px, 0.55fr);
+  gap: 28px;
   align-items: start;
 }
 
@@ -255,6 +253,136 @@ h1 {
   gap: 12px;
   margin-top: 18px;
   align-items: center;
+}
+
+/* ===== HERO ACTIONS + ONLINE WIDGET ===== */
+
+.hero-actions-row {
+  display: grid;
+  grid-template-columns: 280px minmax(0, 1fr);
+  gap: 16px;
+  align-items: start;
+  margin-top: 18px;
+}
+
+.hero-actions.hero-actions-stacked-mobile {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: 0;
+}
+
+/* Scoped only to hero button stack to avoid affecting other .btn instances. */
+.hero-actions.hero-actions-stacked-mobile .btn {
+  width: 100%;
+  min-width: 0;
+  max-width: none;
+  min-height: 64px;
+  height: auto;
+  padding: 16px 18px;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.hero-online-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  min-height: 120px;
+  max-height: 120px;
+  padding: 14px 14px 12px;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.035);
+}
+
+.hero-online-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.hero-online-title {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.hero-online-range {
+  font-size: 12px;
+  white-space: nowrap;
+  color: var(--muted);
+}
+
+.hero-online-chart-wrap {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 42px;
+  gap: 10px;
+  align-items: end;
+  flex: 1;
+  min-height: 0;
+}
+
+.hero-online-chart {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  align-items: end;
+  gap: 8px;
+  height: 90px;
+  padding-top: 8px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.hero-online-bar-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+  height: 100%;
+}
+
+.hero-online-bar {
+  width: 100%;
+  max-width: 28px;
+  min-height: 4px;
+  border-radius: 10px 10px 4px 4px;
+  background: linear-gradient(180deg, #ffb347 0%, #ff8a00 40%, #ff5b2e 100%);
+  box-shadow: 0 8px 18px rgba(255, 91, 46, 0.25);
+}
+
+.hero-online-date {
+  font-size: 11px;
+  line-height: 1;
+  white-space: nowrap;
+  color: var(--muted);
+}
+
+.hero-online-scale {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: 90px;
+  padding-bottom: 18px;
+  font-size: 11px;
+  color: var(--muted);
+}
+
+.hero-online-empty {
+  grid-column: 1 / -1;
+  align-self: center;
+  justify-self: center;
+  font-size: 13px;
+  color: var(--muted);
 }
 
 /* ===== LANGUAGE SWITCH ===== */
@@ -348,7 +476,7 @@ h1 {
   color: var(--text);
 }
 
-/* Primary CTA in hero */
+/* Primary hero CTA */
 .btn-today-stats {
   position: relative;
   display: inline-flex;
@@ -378,7 +506,7 @@ h1 {
     0 16px 34px rgba(255, 91, 46, 0.38);
 }
 
-/* Secondary hero CTA with highlighted accent border */
+/* Secondary hero CTA */
 .btn-driver-day {
   position: relative;
   width: auto;
@@ -515,146 +643,6 @@ h1 {
 .server-players {
   opacity: 0.8;
   font-size: 1em;
-}
-
-/* ===== HERO ONLINE CHART ===== */
-
-/*
-  Layout:
-  - left narrow column = stacked action buttons
-  - right flexible column = compact online chart
-*/
-.hero-actions-row {
-  display: grid;
-  grid-template-columns: 280px minmax(0, 1fr);
-  gap: 16px;
-  align-items: start;
-  margin-top: 18px;
-}
-
-/* Force the hero button stack to stay vertical on desktop */
-.hero-actions.hero-actions-stacked-mobile {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-  align-items: stretch;
-  justify-content: flex-start;
-  margin-top: 0;
-}
-
-/*
-  Important:
-  We scope this rule to the exact hero stack container to avoid affecting
-  other generic .btn usage elsewhere on the site.
-*/
-.hero-actions.hero-actions-stacked-mobile .btn {
-  width: 100%;
-  min-width: 0;
-  max-width: none;
-  min-height: 64px;
-  height: auto;
-  padding: 16px 18px;
-  align-self: stretch;
-  flex: 0 0 auto;
-}
-
-.hero-online-card {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  height: 100%;
-  min-height: 120px;
-  max-height: 120px;
-  padding: 14px 14px 12px;
-  border: 1px solid var(--line);
-  border-radius: 18px;
-  background: rgba(255, 255, 255, 0.035);
-}
-
-.hero-online-head {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 12px;
-  margin-bottom: 12px;
-}
-
-.hero-online-title {
-  font-size: 13px;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--muted);
-}
-
-.hero-online-range {
-  font-size: 12px;
-  white-space: nowrap;
-  color: var(--muted);
-}
-
-.hero-online-chart-wrap {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 42px;
-  gap: 10px;
-  align-items: end;
-  flex: 1;
-  min-height: 0;
-}
-
-.hero-online-chart {
-  display: grid;
-  grid-template-columns: repeat(7, minmax(0, 1fr));
-  align-items: end;
-  gap: 8px;
-  height: 90px;
-  padding-top: 8px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
-}
-
-.hero-online-bar-group {
-  display: flex;
-  flex-direction: column;
-  justify-content: end;
-  align-items: center;
-  gap: 8px;
-  min-width: 0;
-  height: 100%;
-}
-
-.hero-online-bar {
-  width: 100%;
-  max-width: 28px;
-  min-height: 4px;
-  border-radius: 10px 10px 4px 4px;
-  background: linear-gradient(180deg, #ffb347 0%, #ff8a00 40%, #ff5b2e 100%);
-  box-shadow: 0 8px 18px rgba(255, 91, 46, 0.25);
-}
-
-.hero-online-date {
-  font-size: 11px;
-  line-height: 1;
-  white-space: nowrap;
-  color: var(--muted);
-}
-
-.hero-online-scale {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: flex-start;
-  height: 90px;
-  padding-bottom: 18px;
-  font-size: 11px;
-  color: var(--muted);
-}
-
-.hero-online-empty {
-  grid-column: 1 / -1;
-  align-self: center;
-  justify-self: center;
-  font-size: 13px;
-  color: var(--muted);
 }
 
 /* ===== SECTIONS ===== */
@@ -1343,14 +1331,14 @@ body.modal-open {
     keep both hero actions in two columns for compactness,
     but let online chart go below as a single full-width block.
   */
-  .hero-actions-stacked-mobile {
+  .hero-actions.hero-actions-stacked-mobile {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 10px;
     align-items: stretch;
   }
 
-  .hero-actions-stacked-mobile .btn,
+  .hero-actions.hero-actions-stacked-mobile .btn,
   .btn-today-stats,
   .btn-driver-day {
     width: 100%;
@@ -1500,11 +1488,11 @@ body.modal-open {
     font-size: 0.82rem;
   }
 
-  .hero-actions-stacked-mobile {
+  .hero-actions.hero-actions-stacked-mobile {
     grid-template-columns: 1fr;
   }
 
-  .hero-actions-stacked-mobile .btn,
+  .hero-actions.hero-actions-stacked-mobile .btn,
   .btn-driver-day,
   .btn-today-stats {
     width: 100%;
