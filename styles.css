@@ -470,7 +470,7 @@ h1 {
 }
 
 .mini-stat-bestlap {
-  min-height: 120px;
+  min-height: 110px;
 }
 
 .mini-stat-compact {
@@ -501,7 +501,7 @@ h1 {
   align-items: center;
   gap: 10px;
   flex-wrap: wrap;
-  height: 80%;
+  height: 50%;
 }
 
 .server-status {
