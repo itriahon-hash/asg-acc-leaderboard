@@ -216,9 +216,13 @@ body {
 
 .hero-grid {
   display: grid;
-  grid-template-columns: minmax(0, 1.45fr) minmax(280px, 0.55fr);
-  gap: 28px;
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 340px);
+  gap: 24px 28px;
   align-items: start;
+}
+
+.hero-grid > :first-child {
+  grid-column: 1 / -1;
 }
 
 .eyebrow {
@@ -241,7 +245,7 @@ h1 {
 }
 
 .hero-subtitle {
-  max-width: 720px;
+  max-width: min(100%, 1080px);
   margin: 0 0 18px;
   font-size: 17px;
   line-height: 1.6;
@@ -264,6 +268,7 @@ h1 {
   gap: 16px;
   align-items: stretch;
   margin-top: 24px;
+  max-width: min(100%, 1240px);
 }
 
 .hero-actions.hero-actions-stacked-mobile {
@@ -567,6 +572,9 @@ h1 {
 .hero-side {
   display: grid;
   gap: 14px;
+  width: 100%;
+  max-width: 340px;
+  margin-left: auto;
 }
 
 .hero-side-compact {
@@ -1257,6 +1265,15 @@ body.modal-open {
     grid-template-columns: 1fr;
   }
 
+  .hero-grid > :first-child {
+    grid-column: auto;
+  }
+
+  .hero-side {
+    max-width: none;
+    margin-left: 0;
+  }
+
   .hero-card {
     padding: 24px;
   }
@@ -1587,5 +1604,7 @@ body.modal-open {
     font-size: 11px;
   }
 }
+
+
 
 
