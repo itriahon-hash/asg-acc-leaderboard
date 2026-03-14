@@ -168,7 +168,7 @@ const translations = {
     driverOfDayPoints: "Очки за сегодня",
     driverOfDayRaces: "Гонок сегодня",
     driverOfDayWins: "Побед сегодня",
-    driverOfDayAvgFinish: "Средний финиш",
+    driverOfDayAvgFinish: "Ср. финиш",
     driverOfDayBestLap: "Лучший круг сегодня",
     driverOfDayBestLapTrack: "Трасса",
     driverOfDayNoData: "Сегодня ещё нет данных по гонкам.",
