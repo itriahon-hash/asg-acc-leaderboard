@@ -1,13 +1,13 @@
 {
   "date": "2026-03-15",
-  "driver": "REGI SILVA",
-  "player_id": "S76561199528581106",
-  "points": 26,
-  "races": 1,
-  "wins": 1,
-  "average_finish": 1.0,
-  "best_lap": "1:47.427",
-  "best_lap_ms": 107427,
+  "driver": "Alexey Shustov",
+  "player_id": "S76561198022114236",
+  "points": 28,
+  "races": 2,
+  "wins": 0,
+  "average_finish": 3.5,
+  "best_lap": "1:49.095",
+  "best_lap_ms": 109095,
   "best_lap_track": "monza",
-  "updated_at": "2026-03-15T00:47:20"
+  "updated_at": "2026-03-15T00:52:20"
 }
