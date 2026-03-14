@@ -1,22 +1,22 @@
 {
   "date": "2026-03-14",
-  "unique_players_today": 242,
-  "races_today": 15,
-  "sessions_today": 36,
-  "points_earned_today": 1398,
-  "wins_today": 15,
-  "podiums_today": 44,
-  "avg_players_per_race_today": 28.4,
+  "unique_players_today": 252,
+  "races_today": 16,
+  "sessions_today": 37,
+  "points_earned_today": 1500,
+  "wins_today": 16,
+  "podiums_today": 47,
+  "avg_players_per_race_today": 29.38,
   "tracks_raced_today": [
     "monza"
   ],
   "best_lap_today": {
-    "lap": "1:46.727",
-    "lap_ms": 106727,
-    "driver": "Man in Tights",
-    "player_id": "S76561198345280292",
+    "lap": "1:46.630",
+    "lap_ms": 106630,
+    "driver": "Miso Stubna",
+    "player_id": "S76561198967404615",
     "track": "monza",
-    "session_type": "Q"
+    "session_type": "R"
   },
   "most_active_driver_today": {
     "player_id": "S76561197983024493",
@@ -30,11 +30,11 @@
   "server": {
     "status": "online",
     "server_online": true,
-    "players_online": 20,
+    "players_online": 16,
     "tcp_listening": null,
     "udp_listening": null,
     "broadcast_listening": null,
-    "updated_at": "2026-03-14T16:42:20"
+    "updated_at": "2026-03-14T16:47:20"
   },
-  "updated_at": "2026-03-14T16:42:20"
+  "updated_at": "2026-03-14T16:47:20"
 }
