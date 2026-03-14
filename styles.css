@@ -194,7 +194,7 @@ h1 {
   border: 1px solid var(--line);
   border-radius: 18px;
   padding: 18px 18px 16px;
-  min-height: 105px;
+  min-height: 80px;
 }
 
 .mini-label {
@@ -672,7 +672,7 @@ tbody tr:last-child td { border-bottom: none; }
 }
 
 .mini-stat-compact {
-  padding: 14px 16px;
+  padding: 10px 20px;
 }
 
 .mini-stat-compact .mini-value {
