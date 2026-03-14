@@ -4,8 +4,14 @@
     "driver": "Manuel Bryan Arsenio",
     "penalty_count": 2,
     "penalty_points": 4,
-    "last_penalty_reason": "Cutting",
-    "last_penalty_type": "StopAndGo_10",
+    "reasons": {
+      "PitSpeeding": 1,
+      "Cutting": 1
+    },
+    "penalties": {
+      "DriveThrough": 1,
+      "StopAndGo_10": 1
+    },
     "last_seen": "2026-03-14T00:04:53",
     "rank": 1
   },
@@ -14,8 +20,14 @@
     "driver": "Артем Ходченков",
     "penalty_count": 3,
     "penalty_points": 3,
-    "last_penalty_reason": "Cutting",
-    "last_penalty_type": "Disqualified",
+    "reasons": {
+      "PitSpeeding": 1,
+      "Cutting": 2
+    },
+    "penalties": {
+      "DriveThrough": 2,
+      "Disqualified": 1
+    },
     "last_seen": "2026-03-13T21:36:17",
     "rank": 2
   },
@@ -24,8 +36,14 @@
     "driver": "Arsenii Kapustin",
     "penalty_count": 2,
     "penalty_points": 3,
-    "last_penalty_reason": "Cutting",
-    "last_penalty_type": "None",
+    "reasons": {
+      "None": 1,
+      "Cutting": 1
+    },
+    "penalties": {
+      "DriveThrough": 1,
+      "None": 1
+    },
     "last_seen": "2026-03-13T13:13:41",
     "rank": 3
   },
@@ -34,8 +52,14 @@
     "driver": "Tom Mansion",
     "penalty_count": 2,
     "penalty_points": 3,
-    "last_penalty_reason": "Cutting",
-    "last_penalty_type": "None",
+    "reasons": {
+      "None": 1,
+      "Cutting": 1
+    },
+    "penalties": {
+      "DriveThrough": 1,
+      "None": 1
+    },
     "last_seen": "2026-03-13T21:00:56",
     "rank": 4
   },
@@ -44,8 +68,12 @@
     "driver": "Fedor Shishlin",
     "penalty_count": 1,
     "penalty_points": 3,
-    "last_penalty_reason": "None",
-    "last_penalty_type": "DriveThrough",
+    "reasons": {
+      "None": 1
+    },
+    "penalties": {
+      "DriveThrough": 1
+    },
     "last_seen": "2026-03-13T23:29:57",
     "rank": 5
   },
@@ -54,8 +82,12 @@
     "driver": "robby wing",
     "penalty_count": 1,
     "penalty_points": 3,
-    "last_penalty_reason": "Cutting",
-    "last_penalty_type": "DriveThrough",
+    "reasons": {
+      "Cutting": 1
+    },
+    "penalties": {
+      "DriveThrough": 1
+    },
     "last_seen": "2026-03-13T23:29:57",
     "rank": 6
   },
@@ -64,8 +96,12 @@
     "driver": "S MD",
     "penalty_count": 1,
     "penalty_points": 3,
-    "last_penalty_reason": "Cutting",
-    "last_penalty_type": "DriveThrough",
+    "reasons": {
+      "Cutting": 1
+    },
+    "penalties": {
+      "DriveThrough": 1
+    },
     "last_seen": "2026-03-14T00:43:20",
     "rank": 7
   },
@@ -74,8 +110,12 @@
     "driver": "Saveliy Usatov",
     "penalty_count": 1,
     "penalty_points": 3,
-    "last_penalty_reason": "PitSpeeding",
-    "last_penalty_type": "DriveThrough",
+    "reasons": {
+      "PitSpeeding": 1
+    },
+    "penalties": {
+      "DriveThrough": 1
+    },
     "last_seen": "2026-03-13T22:14:10",
     "rank": 8
   },
@@ -84,8 +124,12 @@
     "driver": "Sultan Isaev",
     "penalty_count": 1,
     "penalty_points": 3,
-    "last_penalty_reason": "Cutting",
-    "last_penalty_type": "DriveThrough",
+    "reasons": {
+      "Cutting": 1
+    },
+    "penalties": {
+      "DriveThrough": 1
+    },
     "last_seen": "2026-03-14T01:21:24",
     "rank": 9
   },
@@ -94,8 +138,13 @@
     "driver": "Illyaaa Serg",
     "penalty_count": 2,
     "penalty_points": 2,
-    "last_penalty_reason": "Cutting",
-    "last_penalty_type": "None",
+    "reasons": {
+      "Cutting": 2
+    },
+    "penalties": {
+      "DriveThrough": 1,
+      "None": 1
+    },
     "last_seen": "2026-03-13T15:02:24",
     "rank": 10
   },
@@ -104,8 +153,12 @@
     "driver": "Alex Balea",
     "penalty_count": 1,
     "penalty_points": 2,
-    "last_penalty_reason": "None",
-    "last_penalty_type": "DriveThrough",
+    "reasons": {
+      "None": 1
+    },
+    "penalties": {
+      "DriveThrough": 1
+    },
     "last_seen": "2026-03-14T01:21:24",
     "rank": 11
   },
@@ -114,8 +167,12 @@
     "driver": "ADOLF DRIFTLER",
     "penalty_count": 1,
     "penalty_points": 1,
-    "last_penalty_reason": "Cutting",
-    "last_penalty_type": "DriveThrough",
+    "reasons": {
+      "Cutting": 1
+    },
+    "penalties": {
+      "DriveThrough": 1
+    },
     "last_seen": "2026-03-14T00:43:20",
     "rank": 12
   },
@@ -124,8 +181,12 @@
     "driver": "C 'AeRo [SCO]",
     "penalty_count": 1,
     "penalty_points": 1,
-    "last_penalty_reason": "None",
-    "last_penalty_type": "DriveThrough",
+    "reasons": {
+      "None": 1
+    },
+    "penalties": {
+      "DriveThrough": 1
+    },
     "last_seen": "2026-03-14T00:04:53",
     "rank": 13
   },
@@ -134,8 +195,13 @@
     "driver": "Sergey Shelkov",
     "penalty_count": 2,
     "penalty_points": 0,
-    "last_penalty_reason": "PitSpeeding",
-    "last_penalty_type": "Disqualified",
+    "reasons": {
+      "PitSpeeding": 2
+    },
+    "penalties": {
+      "StopAndGo_30": 1,
+      "Disqualified": 1
+    },
     "last_seen": "2026-03-14T00:43:20",
     "rank": 14
   },
@@ -144,8 +210,12 @@
     "driver": "georges luk",
     "penalty_count": 1,
     "penalty_points": 0,
-    "last_penalty_reason": "PitSpeeding",
-    "last_penalty_type": "Disqualified",
+    "reasons": {
+      "PitSpeeding": 1
+    },
+    "penalties": {
+      "Disqualified": 1
+    },
     "last_seen": "2026-03-14T00:04:53",
     "rank": 15
   },
@@ -154,8 +224,12 @@
     "driver": "Javi Wasabi",
     "penalty_count": 1,
     "penalty_points": 0,
-    "last_penalty_reason": "PitSpeeding",
-    "last_penalty_type": "Disqualified",
+    "reasons": {
+      "PitSpeeding": 1
+    },
+    "penalties": {
+      "Disqualified": 1
+    },
     "last_seen": "2026-03-14T00:43:20",
     "rank": 16
   }
