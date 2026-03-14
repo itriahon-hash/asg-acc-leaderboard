@@ -2610,6 +2610,16 @@
     "rank": 261
   },
   {
+    "player_id": "S76561198061635799",
+    "driver": "Manuel Pfleging",
+    "best_lap_ms": 109502,
+    "best_lap": "1:49.502",
+    "track": "monza",
+    "session_type": "Q",
+    "updated_at": "2026-03-15T02:15:40",
+    "rank": 262
+  },
+  {
     "player_id": "S76561199547849782",
     "driver": "Angelo Alfano",
     "best_lap_ms": 109517,
@@ -2617,7 +2627,7 @@
     "track": "monza",
     "session_type": "Q",
     "updated_at": "2026-03-14T17:35:31",
-    "rank": 262
+    "rank": 263
   },
   {
     "player_id": "S76561198999323224",
@@ -2627,7 +2637,7 @@
     "track": "monza",
     "session_type": "R",
     "updated_at": "2026-03-14T21:46:15",
-    "rank": 263
+    "rank": 264
   },
   {
     "player_id": "S76561199072528780",
@@ -2637,16 +2647,6 @@
     "track": "monza",
     "session_type": "Q",
     "updated_at": "2026-03-14T13:52:54",
-    "rank": 264
-  },
-  {
-    "player_id": "S76561198061635799",
-    "driver": "Manuel Pfleging",
-    "best_lap_ms": 109552,
-    "best_lap": "1:49.552",
-    "track": "monza",
-    "session_type": "R",
-    "updated_at": "2026-03-15T02:03:53",
     "rank": 265
   },
   {
