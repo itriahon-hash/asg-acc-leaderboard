@@ -253,6 +253,22 @@
     "rank": 17
   },
   {
+    "player_id": "S76561198422301675",
+    "driver": "Сергей Комаров",
+    "penalty_count": 2,
+    "penalty_points": 2,
+    "reasons": {
+      "Cutting": 1,
+      "PitSpeeding": 1
+    },
+    "penalties": {
+      "DriveThrough": 1,
+      "StopAndGo_30": 1
+    },
+    "last_seen": "2026-03-14T15:33:41",
+    "rank": 18
+  },
+  {
     "player_id": "S76561199073312795",
     "driver": "Alex Balea",
     "penalty_count": 1,
@@ -264,7 +280,7 @@
       "DriveThrough": 1
     },
     "last_seen": "2026-03-14T01:21:24",
-    "rank": 18
+    "rank": 19
   },
   {
     "player_id": "S76561199067336351",
@@ -278,7 +294,7 @@
       "DriveThrough": 1
     },
     "last_seen": "2026-03-14T00:43:20",
-    "rank": 19
+    "rank": 20
   },
   {
     "player_id": "S76561198018327004",
@@ -292,7 +308,7 @@
       "DriveThrough": 1
     },
     "last_seen": "2026-03-14T00:04:53",
-    "rank": 20
+    "rank": 21
   },
   {
     "player_id": "S76561198211561689",
@@ -307,7 +323,7 @@
       "Disqualified": 1
     },
     "last_seen": "2026-03-14T00:43:20",
-    "rank": 21
+    "rank": 22
   },
   {
     "player_id": "S76561198930402633",
@@ -321,7 +337,7 @@
       "Disqualified": 1
     },
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 22
+    "rank": 23
   },
   {
     "player_id": "S76561199444872259",
@@ -335,7 +351,7 @@
       "Disqualified": 1
     },
     "last_seen": "2026-03-14T00:04:53",
-    "rank": 23
+    "rank": 24
   },
   {
     "player_id": "S76561198045178851",
@@ -349,7 +365,7 @@
       "Disqualified": 1
     },
     "last_seen": "2026-03-14T00:43:20",
-    "rank": 24
+    "rank": 25
   },
   {
     "player_id": "S76561198871948501",
@@ -363,7 +379,7 @@
       "Disqualified": 1
     },
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 25
+    "rank": 26
   },
   {
     "player_id": "S76561198123397673",
@@ -377,6 +393,6 @@
       "Disqualified": 1
     },
     "last_seen": "2026-03-14T13:40:43",
-    "rank": 26
+    "rank": 27
   }
 ]
