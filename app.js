@@ -1234,14 +1234,14 @@ async function init() {
   applyStaticTranslations();
 
   try {
-const [leaderboard, bestlaps, globalStats, safety, driverOfDay, serverStatus] = await Promise.all([
-  loadJson(leaderboardUrl),
-  loadJson(bestlapsUrl),
-  loadJson(globalStatsUrl),
-  loadJson(safetyUrl),
-  loadJson(driverOfDayUrl),
-  loadJson("top/server_status.json?_=" + Date.now())
-]);
+    const [leaderboard, bestlaps, globalStats, safety, driverOfDay, serverStatus] = await Promise.all([
+      loadJson(leaderboardUrl),
+      loadJson(bestlapsUrl),
+      loadJson(globalStatsUrl),
+      loadJson(safetyUrl),
+      loadJson(driverOfDayUrl),
+      loadJson("./server_status.json")
+    ]);
 
     leaderboardData = Array.isArray(leaderboard) ? leaderboard : [];
     bestlapsData = Array.isArray(bestlaps) ? bestlaps : [];
@@ -1250,38 +1250,47 @@ const [leaderboard, bestlaps, globalStats, safety, driverOfDay, serverStatus] = 
     driverOfDayData = driverOfDay && typeof driverOfDay === "object" ? driverOfDay : null;
 
     const driversCountEl = document.getElementById("drivers-count");
-    if (driversCountEl) driversCountEl.textContent = leaderboardData.length;
+    if (driversCountEl) {
+      driversCountEl.textContent = leaderboardData.length;
+    }
 
     const bestLapHighlightEl = document.getElementById("best-lap-highlight");
     const bestLapNoteEl = document.getElementById("best-lap-note");
-    
 
     if (bestlapsData.length > 0) {
-      if (bestLapHighlightEl) bestLapHighlightEl.textContent = bestlapsData[0].best_lap || "—";
+      if (bestLapHighlightEl) {
+        bestLapHighlightEl.textContent = bestlapsData[0].best_lap || "—";
+      }
       updateBestLapNote(bestlapsData[0].driver, bestlapsData[0].track);
     } else {
-      if (bestLapHighlightEl) bestLapHighlightEl.textContent = "—";
-      if (bestLapNoteEl) bestLapNoteEl.textContent = t("bestLapNoteFallback");
+      if (bestLapHighlightEl) {
+        bestLapHighlightEl.textContent = "—";
+      }
+      if (bestLapNoteEl) {
+        bestLapNoteEl.textContent = t("bestLapNoteFallback");
+      }
     }
 
     const serverStatusEl = document.getElementById("serverStatusValue");
-const serverPlayersEl = document.getElementById("serverPlayersValue");
+    const serverPlayersEl = document.getElementById("serverPlayersValue");
 
-if (serverStatusEl && serverPlayersEl) {
-  const status = serverStatus && typeof serverStatus === "object"
-    ? String(serverStatus.status || "offline").toLowerCase()
-    : "offline";
+    if (serverStatusEl && serverPlayersEl) {
+      const status =
+        serverStatus && typeof serverStatus === "object"
+          ? String(serverStatus.status || "offline").toLowerCase()
+          : "offline";
 
-  const players = serverStatus && Number.isFinite(serverStatus.players_online)
-    ? serverStatus.players_online
-    : 0;
+      const players =
+        serverStatus && Number.isFinite(serverStatus.players_online)
+          ? serverStatus.players_online
+          : 0;
 
-  serverStatusEl.textContent = status.toUpperCase();
-  serverPlayersEl.textContent = players;
+      serverStatusEl.textContent = status.toUpperCase();
+      serverPlayersEl.textContent = players;
 
-  serverStatusEl.classList.remove("online", "offline");
-  serverStatusEl.classList.add(status === "online" ? "online" : "offline");
-}
+      serverStatusEl.classList.remove("online", "offline");
+      serverStatusEl.classList.add(status === "online" ? "online" : "offline");
+    }
 
     rerenderUI();
   } catch (error) {
@@ -1307,22 +1316,28 @@ if (serverStatusEl && serverPlayersEl) {
     if (safetyTableEl) {
       safetyTableEl.innerHTML = `<div class="empty-box">${escapeHtml(t("errorLoading"))}</div>`;
     }
-    if (leaderboardWrapEl) leaderboardWrapEl.style.display = "none";
-    if (bestlapsWrapEl) bestlapsWrapEl.style.display = "none";
-    if (safetyWrapEl) safetyWrapEl.style.display = "none";
+    if (leaderboardWrapEl) {
+      leaderboardWrapEl.style.display = "none";
+    }
+    if (bestlapsWrapEl) {
+      bestlapsWrapEl.style.display = "none";
+    }
+    if (safetyWrapEl) {
+      safetyWrapEl.style.display = "none";
+    }
 
     const serverStatusEl = document.getElementById("serverStatusValue");
-const serverPlayersEl = document.getElementById("serverPlayersValue");
+    const serverPlayersEl = document.getElementById("serverPlayersValue");
 
-if (serverStatusEl) {
-  serverStatusEl.textContent = "OFFLINE";
-  serverStatusEl.classList.remove("online");
-  serverStatusEl.classList.add("offline");
-}
+    if (serverStatusEl) {
+      serverStatusEl.textContent = "OFFLINE";
+      serverStatusEl.classList.remove("online");
+      serverStatusEl.classList.add("offline");
+    }
 
-if (serverPlayersEl) {
-  serverPlayersEl.textContent = "--";
-}
+    if (serverPlayersEl) {
+      serverPlayersEl.textContent = "--";
+    }
   }
 }
 
