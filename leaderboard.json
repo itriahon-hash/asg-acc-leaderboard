@@ -3874,5 +3874,22 @@
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
     "rank": 228
+  },
+  {
+    "player_id": "S76561198396304440",
+    "driver": "Alexander Plytnik",
+    "races": 0,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 0,
+    "average_finish": null,
+    "best_lap_ms": 111272,
+    "best_lap": "1:51.272",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "Q",
+    "last_track": null,
+    "last_seen": null,
+    "rank": 229
   }
 ]
