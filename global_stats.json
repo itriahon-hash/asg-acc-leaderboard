@@ -1,8 +1,8 @@
 {
   "date": "2026-03-14",
-  "unique_players_today": 95,
+  "unique_players_today": 106,
   "races_today": 9,
-  "sessions_today": 23,
+  "sessions_today": 24,
   "points_earned_today": 786,
   "wins_today": 9,
   "podiums_today": 26,
@@ -27,5 +27,5 @@
     "driver": "Arsenii Kapustin",
     "points": 76
   },
-  "updated_at": "2026-03-14T12:37:19"
+  "updated_at": "2026-03-14T12:41:09"
 }
