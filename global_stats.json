@@ -1,12 +1,12 @@
 {
   "date": "2026-03-15",
   "unique_players_today": 71,
-  "races_today": 5,
-  "sessions_today": 12,
-  "points_earned_today": 510,
-  "wins_today": 5,
-  "podiums_today": 15,
-  "avg_players_per_race_today": 21.4,
+  "races_today": 6,
+  "sessions_today": 13,
+  "points_earned_today": 536,
+  "wins_today": 6,
+  "podiums_today": 16,
+  "avg_players_per_race_today": 18.0,
   "tracks_raced_today": [
     "monza"
   ],
@@ -34,7 +34,7 @@
     "tcp_listening": null,
     "udp_listening": null,
     "broadcast_listening": null,
-    "updated_at": "2026-03-15T07:37:20"
+    "updated_at": "2026-03-15T07:42:20"
   },
-  "updated_at": "2026-03-15T07:37:20"
+  "updated_at": "2026-03-15T07:42:20"
 }
