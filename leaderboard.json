@@ -14033,10 +14033,10 @@
     "points": 0,
     "average_finish_sum": 37,
     "average_finish": 37.0,
-    "best_lap_ms": null,
-    "best_lap": null,
-    "best_lap_track": null,
-    "best_lap_session_type": null,
+    "best_lap_ms": 109475,
+    "best_lap": "1:49.475",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T19:26:02",
     "rank": 826
@@ -15706,5 +15706,22 @@
     "last_track": null,
     "last_seen": null,
     "rank": 924
+  },
+  {
+    "player_id": "S76561199652103509",
+    "driver": "Louis Comeau",
+    "races": 0,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 0,
+    "average_finish": null,
+    "best_lap_ms": 112132,
+    "best_lap": "1:52.132",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "Q",
+    "last_track": null,
+    "last_seen": null,
+    "rank": 925
   }
 ]
