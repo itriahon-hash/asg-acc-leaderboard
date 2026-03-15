@@ -1,13 +1,13 @@
 {
   "date": "2026-03-16",
-  "driver": null,
-  "player_id": null,
-  "points": 0,
-  "races": 0,
-  "wins": 0,
-  "average_finish": null,
-  "best_lap": null,
-  "best_lap_ms": null,
-  "best_lap_track": null,
-  "updated_at": "2026-03-16T00:17:20"
+  "driver": "Gleb Blatin",
+  "player_id": "S76561198160885621",
+  "points": 26,
+  "races": 1,
+  "wins": 1,
+  "average_finish": 1.0,
+  "best_lap": "1:48.550",
+  "best_lap_ms": 108550,
+  "best_lap_track": "monza",
+  "updated_at": "2026-03-16T00:22:20"
 }

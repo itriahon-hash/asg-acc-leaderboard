@@ -1,31 +1,40 @@
 {
   "date": "2026-03-16",
-  "unique_players_today": 0,
-  "races_today": 0,
-  "sessions_today": 0,
-  "points_earned_today": 0,
-  "wins_today": 0,
-  "podiums_today": 0,
-  "avg_players_per_race_today": 0,
-  "tracks_raced_today": [],
+  "unique_players_today": 11,
+  "races_today": 1,
+  "sessions_today": 1,
+  "points_earned_today": 102,
+  "wins_today": 1,
+  "podiums_today": 3,
+  "avg_players_per_race_today": 11.0,
+  "tracks_raced_today": [
+    "monza"
+  ],
   "best_lap_today": {
-    "lap": null,
-    "lap_ms": null,
-    "driver": null,
-    "player_id": null,
-    "track": null,
-    "session_type": null
+    "lap": "1:48.550",
+    "lap_ms": 108550,
+    "driver": "Gleb Blatin",
+    "player_id": "S76561198160885621",
+    "track": "monza",
+    "session_type": "R"
   },
-  "most_active_driver_today": null,
-  "most_successful_driver_today": null,
+  "most_active_driver_today": {
+    "player_id": "S76561198160885621",
+    "races": 1
+  },
+  "most_successful_driver_today": {
+    "player_id": "S76561198160885621",
+    "driver": "Gleb Blatin",
+    "points": 26
+  },
   "server": {
     "status": "online",
     "server_online": true,
-    "players_online": 5,
+    "players_online": 1,
     "tcp_listening": null,
     "udp_listening": null,
     "broadcast_listening": null,
-    "updated_at": "2026-03-16T00:17:20"
+    "updated_at": "2026-03-16T00:22:20"
   },
-  "updated_at": "2026-03-16T00:17:20"
+  "updated_at": "2026-03-16T00:22:20"
 }
