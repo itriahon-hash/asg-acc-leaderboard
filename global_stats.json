@@ -1,8 +1,8 @@
 {
   "date": "2026-03-15",
-  "unique_players_today": 227,
+  "unique_players_today": 237,
   "races_today": 18,
-  "sessions_today": 40,
+  "sessions_today": 41,
   "points_earned_today": 1634,
   "wins_today": 18,
   "podiums_today": 51,
@@ -34,7 +34,7 @@
     "tcp_listening": null,
     "udp_listening": null,
     "broadcast_listening": null,
-    "updated_at": "2026-03-15T17:07:20"
+    "updated_at": "2026-03-15T17:12:20"
   },
-  "updated_at": "2026-03-15T17:07:20"
+  "updated_at": "2026-03-15T17:12:20"
 }
