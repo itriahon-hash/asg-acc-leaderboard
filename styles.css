@@ -860,19 +860,19 @@ th.sortable:hover {
 }
 
 th.sortable::after {
-  content: "в‡…";
+  content: "\2195";
   margin-left: 8px;
   font-size: 12px;
   color: var(--muted);
 }
 
 th.sortable.sort-asc::after {
-  content: "в†‘";
+  content: "\2191";
   color: var(--accent-2);
 }
 
 th.sortable.sort-desc::after {
-  content: "в†“";
+  content: "\2193";
   color: var(--accent);
 }
 
@@ -1620,7 +1620,6 @@ body.modal-open {
     font-size: 11px;
   }
 }
-
 
 
 
