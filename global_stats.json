@@ -1,40 +1,31 @@
 {
-  "date": "2026-03-15",
-  "unique_players_today": 442,
-  "races_today": 29,
-  "sessions_today": 62,
-  "points_earned_today": 2756,
-  "wins_today": 29,
-  "podiums_today": 84,
-  "avg_players_per_race_today": 30.86,
-  "tracks_raced_today": [
-    "monza"
-  ],
+  "date": "2026-03-16",
+  "unique_players_today": 0,
+  "races_today": 0,
+  "sessions_today": 0,
+  "points_earned_today": 0,
+  "wins_today": 0,
+  "podiums_today": 0,
+  "avg_players_per_race_today": 0,
+  "tracks_raced_today": [],
   "best_lap_today": {
-    "lap": "1:46.687",
-    "lap_ms": 106687,
-    "driver": "Man in Tights",
-    "player_id": "S76561198345280292",
-    "track": "monza",
-    "session_type": "R"
+    "lap": null,
+    "lap_ms": null,
+    "driver": null,
+    "player_id": null,
+    "track": null,
+    "session_type": null
   },
-  "most_active_driver_today": {
-    "player_id": "S76561198022114236",
-    "races": 14
-  },
-  "most_successful_driver_today": {
-    "player_id": "S76561199664057628",
-    "driver": "Arsenii Kapustin",
-    "points": 152
-  },
+  "most_active_driver_today": null,
+  "most_successful_driver_today": null,
   "server": {
     "status": "online",
     "server_online": true,
-    "players_online": 6,
+    "players_online": 7,
     "tcp_listening": null,
     "udp_listening": null,
     "broadcast_listening": null,
-    "updated_at": "2026-03-15T23:57:20"
+    "updated_at": "2026-03-16T00:02:20"
   },
-  "updated_at": "2026-03-15T23:57:20"
+  "updated_at": "2026-03-16T00:02:20"
 }
