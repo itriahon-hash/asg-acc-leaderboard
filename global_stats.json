@@ -30,11 +30,11 @@
   "server": {
     "status": "online",
     "server_online": true,
-    "players_online": 1,
+    "players_online": 4,
     "tcp_listening": null,
     "udp_listening": null,
     "broadcast_listening": null,
-    "updated_at": "2026-03-15T23:10:41"
+    "updated_at": "2026-03-15T23:12:20"
   },
-  "updated_at": "2026-03-15T23:10:42"
+  "updated_at": "2026-03-15T23:12:20"
 }
