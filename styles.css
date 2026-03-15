@@ -1072,6 +1072,7 @@ tbody tr:last-child td {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
+  padding-top: 140px;
 }
 
 .modal-card {
