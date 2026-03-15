@@ -19,52 +19,52 @@
   {
     "player_id": "S76561199121481915",
     "driver": "Kirill Bulgakov",
-    "races": 23,
+    "races": 24,
     "wins": 3,
     "podiums": 10,
     "points": 224,
-    "average_finish_sum": 299,
-    "average_finish": 13.0,
+    "average_finish_sum": 326,
+    "average_finish": 13.58,
     "best_lap_ms": 106750,
     "best_lap": "1:46.750",
     "best_lap_track": "monza",
     "best_lap_session_type": "R",
     "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
+    "last_seen": "2026-03-15T15:08:40",
     "rank": 2
   },
   {
     "player_id": "S76561197983024493",
     "driver": "Andrei Soldatenkov [ASG]",
-    "races": 34,
+    "races": 35,
     "wins": 3,
-    "podiums": 8,
-    "points": 205,
-    "average_finish_sum": 701,
-    "average_finish": 20.62,
+    "podiums": 9,
+    "points": 220,
+    "average_finish_sum": 704,
+    "average_finish": 20.11,
     "best_lap_ms": 107405,
     "best_lap": "1:47.405",
     "best_lap_track": "monza",
     "best_lap_session_type": "R",
     "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
+    "last_seen": "2026-03-15T15:08:40",
     "rank": 3
   },
   {
     "player_id": "S76561199445415102",
     "driver": "Евгений Майоров | NRR",
-    "races": 10,
+    "races": 11,
     "wins": 3,
-    "podiums": 5,
-    "points": 116,
-    "average_finish_sum": 134,
-    "average_finish": 13.4,
+    "podiums": 6,
+    "points": 135,
+    "average_finish_sum": 136,
+    "average_finish": 12.36,
     "best_lap_ms": 106725,
     "best_lap": "1:46.725",
     "best_lap_track": "monza",
     "best_lap_session_type": "R",
     "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
+    "last_seen": "2026-03-15T15:08:40",
     "rank": 4
   },
   {
@@ -170,6 +170,23 @@
     "rank": 10
   },
   {
+    "player_id": "S76561198273381308",
+    "driver": "R A",
+    "races": 7,
+    "wins": 1,
+    "podiums": 2,
+    "points": 57,
+    "average_finish_sum": 79,
+    "average_finish": 11.29,
+    "best_lap_ms": 108065,
+    "best_lap": "1:48.065",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "R",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 11
+  },
+  {
     "player_id": "S76561198155579002",
     "driver": "Yamamoto Suroki",
     "races": 4,
@@ -184,7 +201,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 11
+    "rank": 12
   },
   {
     "player_id": "S76561199249038152",
@@ -201,7 +218,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 12
+    "rank": 13
   },
   {
     "player_id": "S76561199244467736",
@@ -218,7 +235,24 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T02:31:06",
-    "rank": 13
+    "rank": 14
+  },
+  {
+    "player_id": "S76561198277151444",
+    "driver": "Holli D.",
+    "races": 4,
+    "wins": 2,
+    "podiums": 2,
+    "points": 50,
+    "average_finish_sum": 50,
+    "average_finish": 12.5,
+    "best_lap_ms": 107195,
+    "best_lap": "1:47.195",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "Q",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 15
   },
   {
     "player_id": "S76561199717374260",
@@ -235,7 +269,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 14
+    "rank": 16
   },
   {
     "player_id": "S76561198259542576",
@@ -252,24 +286,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:51:47",
-    "rank": 15
-  },
-  {
-    "player_id": "S76561198273381308",
-    "driver": "R A",
-    "races": 6,
-    "wins": 1,
-    "podiums": 2,
-    "points": 47,
-    "average_finish_sum": 74,
-    "average_finish": 12.33,
-    "best_lap_ms": 108065,
-    "best_lap": "1:48.065",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "R",
-    "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
-    "rank": 16
+    "rank": 17
   },
   {
     "player_id": "S76561198137531499",
@@ -286,24 +303,24 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:36:17",
-    "rank": 17
+    "rank": 18
   },
   {
     "player_id": "S76561198873693693",
     "driver": "Manny Ykaly",
-    "races": 5,
+    "races": 6,
     "wins": 1,
     "podiums": 2,
     "points": 43,
-    "average_finish_sum": 74,
-    "average_finish": 14.8,
+    "average_finish_sum": 91,
+    "average_finish": 15.17,
     "best_lap_ms": 107617,
     "best_lap": "1:47.617",
     "best_lap_track": "monza",
     "best_lap_session_type": "Q",
     "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
-    "rank": 18
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 19
   },
   {
     "player_id": "S76561199468775705",
@@ -320,7 +337,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 19
+    "rank": 20
   },
   {
     "player_id": "S76561199692395730",
@@ -337,7 +354,24 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:51:47",
-    "rank": 20
+    "rank": 21
+  },
+  {
+    "player_id": "S76561199818407592",
+    "driver": "Denis Pinchuk",
+    "races": 8,
+    "wins": 0,
+    "podiums": 1,
+    "points": 39,
+    "average_finish_sum": 128,
+    "average_finish": 16.0,
+    "best_lap_ms": 107455,
+    "best_lap": "1:47.455",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "R",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 22
   },
   {
     "player_id": "S76561198061635799",
@@ -354,7 +388,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T02:38:02",
-    "rank": 21
+    "rank": 23
   },
   {
     "player_id": "S76561199667535207",
@@ -371,7 +405,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 22
+    "rank": 24
   },
   {
     "player_id": "S76561199110630841",
@@ -388,24 +422,24 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 23
+    "rank": 25
   },
   {
     "player_id": "S76561198018327004",
     "driver": "C 'AeRo [SCO]",
-    "races": 10,
+    "races": 11,
     "wins": 0,
     "podiums": 0,
     "points": 36,
-    "average_finish_sum": 172,
-    "average_finish": 17.2,
+    "average_finish_sum": 194,
+    "average_finish": 17.64,
     "best_lap_ms": 109607,
     "best_lap": "1:49.607",
     "best_lap_track": "monza",
     "best_lap_session_type": "R",
     "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
-    "rank": 24
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 26
   },
   {
     "player_id": "S76561199240616264",
@@ -422,7 +456,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 25
+    "rank": 27
   },
   {
     "player_id": "S76561198335683670",
@@ -439,7 +473,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 26
+    "rank": 28
   },
   {
     "player_id": "S76561198196927845",
@@ -456,7 +490,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T15:38:47",
-    "rank": 27
+    "rank": 29
   },
   {
     "player_id": "S76561198997207626",
@@ -473,7 +507,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T01:27:30",
-    "rank": 28
+    "rank": 30
   },
   {
     "player_id": "S76561198321918777",
@@ -490,7 +524,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 29
+    "rank": 31
   },
   {
     "player_id": "S76561198809547057",
@@ -507,7 +541,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 30
+    "rank": 32
   },
   {
     "player_id": "S76561198207069167",
@@ -524,7 +558,24 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:21:24",
-    "rank": 31
+    "rank": 33
+  },
+  {
+    "player_id": "S76561198376491111",
+    "driver": "Luiz Amorim",
+    "races": 5,
+    "wins": 0,
+    "podiums": 1,
+    "points": 29,
+    "average_finish_sum": 72,
+    "average_finish": 14.4,
+    "best_lap_ms": 107972,
+    "best_lap": "1:47.972",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "R",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 34
   },
   {
     "player_id": "S76561199536305400",
@@ -541,7 +592,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T09:24:19",
-    "rank": 32
+    "rank": 35
   },
   {
     "player_id": "S76561198972482612",
@@ -558,24 +609,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 33
-  },
-  {
-    "player_id": "S76561199818407592",
-    "driver": "Denis Pinchuk",
-    "races": 7,
-    "wins": 0,
-    "podiums": 1,
-    "points": 27,
-    "average_finish_sum": 124,
-    "average_finish": 17.71,
-    "best_lap_ms": 107455,
-    "best_lap": "1:47.455",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "R",
-    "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
-    "rank": 34
+    "rank": 36
   },
   {
     "player_id": "S76561198403211146",
@@ -592,24 +626,24 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 35
+    "rank": 37
   },
   {
     "player_id": "S76561198020203432",
     "driver": "Sergey Maleka",
-    "races": 14,
+    "races": 15,
     "wins": 0,
     "podiums": 1,
     "points": 27,
-    "average_finish_sum": 367,
-    "average_finish": 26.21,
+    "average_finish_sum": 387,
+    "average_finish": 25.8,
     "best_lap_ms": 108220,
     "best_lap": "1:48.220",
     "best_lap_track": "monza",
     "best_lap_session_type": "Q",
     "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
-    "rank": 36
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 38
   },
   {
     "player_id": "S76561198016201235",
@@ -626,7 +660,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:51:47",
-    "rank": 37
+    "rank": 39
   },
   {
     "player_id": "S76561198103601040",
@@ -643,7 +677,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:14:06",
-    "rank": 38
+    "rank": 40
   },
   {
     "player_id": "S76561199528581106",
@@ -660,7 +694,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 39
+    "rank": 41
   },
   {
     "player_id": "S76561199025687855",
@@ -677,7 +711,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:53:49",
-    "rank": 40
+    "rank": 42
   },
   {
     "player_id": "S76561198199517787",
@@ -694,7 +728,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:23:13",
-    "rank": 41
+    "rank": 43
   },
   {
     "player_id": "S76561198350636012",
@@ -711,7 +745,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:10:08",
-    "rank": 42
+    "rank": 44
   },
   {
     "player_id": "S76561198861768068",
@@ -728,7 +762,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T15:38:47",
-    "rank": 43
+    "rank": 45
   },
   {
     "player_id": "S76561199632450169",
@@ -745,7 +779,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 44
+    "rank": 46
   },
   {
     "player_id": "S76561199569825752",
@@ -762,24 +796,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 45
-  },
-  {
-    "player_id": "S76561198277151444",
-    "driver": "Holli D.",
-    "races": 3,
-    "wins": 1,
-    "podiums": 1,
-    "points": 25,
-    "average_finish_sum": 49,
-    "average_finish": 16.33,
-    "best_lap_ms": 107195,
-    "best_lap": "1:47.195",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "Q",
-    "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
-    "rank": 46
+    "rank": 47
   },
   {
     "player_id": "S76561198331195963",
@@ -796,7 +813,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 47
+    "rank": 48
   },
   {
     "player_id": "S76561199386672221",
@@ -813,7 +830,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 48
+    "rank": 49
   },
   {
     "player_id": "S76561198179718887",
@@ -830,7 +847,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 49
+    "rank": 50
   },
   {
     "player_id": "S76561198453035800",
@@ -847,7 +864,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 50
+    "rank": 51
   },
   {
     "player_id": "S76561197977762187",
@@ -864,7 +881,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 51
+    "rank": 52
   },
   {
     "player_id": "S76561198784157282",
@@ -881,7 +898,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T10:03:53",
-    "rank": 52
+    "rank": 53
   },
   {
     "player_id": "S76561198169096026",
@@ -898,7 +915,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 53
+    "rank": 54
   },
   {
     "player_id": "S76561198091266459",
@@ -915,7 +932,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T02:31:06",
-    "rank": 54
+    "rank": 55
   },
   {
     "player_id": "S76561198276952310",
@@ -932,7 +949,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T23:29:57",
-    "rank": 55
+    "rank": 56
   },
   {
     "player_id": "S76561199031191057",
@@ -949,7 +966,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 56
+    "rank": 57
   },
   {
     "player_id": "S76561199012993249",
@@ -966,7 +983,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T10:32:33",
-    "rank": 57
+    "rank": 58
   },
   {
     "player_id": "S76561198832979894",
@@ -983,7 +1000,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T02:03:53",
-    "rank": 58
+    "rank": 59
   },
   {
     "player_id": "S76561198144502702",
@@ -1000,7 +1017,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 59
+    "rank": 60
   },
   {
     "player_id": "S76561198748327980",
@@ -1017,7 +1034,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T09:24:19",
-    "rank": 60
+    "rank": 61
   },
   {
     "player_id": "S76561198117627783",
@@ -1034,7 +1051,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T00:43:20",
-    "rank": 61
+    "rank": 62
   },
   {
     "player_id": "S76561199701082167",
@@ -1051,7 +1068,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T02:31:06",
-    "rank": 62
+    "rank": 63
   },
   {
     "player_id": "S76561199130313785",
@@ -1068,7 +1085,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T15:02:24",
-    "rank": 63
+    "rank": 64
   },
   {
     "player_id": "S76561198973325776",
@@ -1085,7 +1102,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 64
+    "rank": 65
   },
   {
     "player_id": "S76561199695125270",
@@ -1102,41 +1119,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T09:24:19",
-    "rank": 65
-  },
-  {
-    "player_id": "S76561198376491111",
-    "driver": "Luiz Amorim",
-    "races": 4,
-    "wins": 0,
-    "podiums": 1,
-    "points": 21,
-    "average_finish_sum": 66,
-    "average_finish": 16.5,
-    "best_lap_ms": 108170,
-    "best_lap": "1:48.170",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "Q",
-    "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
     "rank": 66
-  },
-  {
-    "player_id": "S76561198056360591",
-    "driver": "dirk habicht",
-    "races": 2,
-    "wins": 0,
-    "podiums": 0,
-    "points": 20,
-    "average_finish_sum": 10,
-    "average_finish": 5.0,
-    "best_lap_ms": 107892,
-    "best_lap": "1:47.892",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "Q",
-    "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
-    "rank": 67
   },
   {
     "player_id": "S76561199224294424",
@@ -1153,6 +1136,23 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T02:38:02",
+    "rank": 67
+  },
+  {
+    "player_id": "S76561198056360591",
+    "driver": "dirk habicht",
+    "races": 3,
+    "wins": 0,
+    "podiums": 0,
+    "points": 20,
+    "average_finish_sum": 26,
+    "average_finish": 8.67,
+    "best_lap_ms": 107892,
+    "best_lap": "1:47.892",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "Q",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
     "rank": 68
   },
   {
@@ -2193,23 +2193,6 @@
     "rank": 129
   },
   {
-    "player_id": "S76561198274149511",
-    "driver": "Maximilian Mälk",
-    "races": 1,
-    "wins": 0,
-    "podiums": 0,
-    "points": 12,
-    "average_finish_sum": 4,
-    "average_finish": 4.0,
-    "best_lap_ms": 109495,
-    "best_lap": "1:49.495",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "Q",
-    "last_track": "monza",
-    "last_seen": "2026-03-13T14:26:39",
-    "rank": 130
-  },
-  {
     "player_id": "S76561199879167475",
     "driver": "Raffaele Zeuli",
     "races": 1,
@@ -2224,7 +2207,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 131
+    "rank": 130
   },
   {
     "player_id": "S76561199798900185",
@@ -2241,7 +2224,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T20:20:54",
-    "rank": 132
+    "rank": 131
   },
   {
     "player_id": "S76561199232300087",
@@ -2258,7 +2241,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 133
+    "rank": 132
   },
   {
     "player_id": "S76561198350985353",
@@ -2275,7 +2258,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T02:38:02",
-    "rank": 134
+    "rank": 133
   },
   {
     "player_id": "S76561198424657316",
@@ -2292,7 +2275,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T15:02:24",
-    "rank": 135
+    "rank": 134
   },
   {
     "player_id": "S76561199174479261",
@@ -2309,7 +2292,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T13:40:43",
-    "rank": 136
+    "rank": 135
   },
   {
     "player_id": "S76561198035213785",
@@ -2326,7 +2309,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 137
+    "rank": 136
   },
   {
     "player_id": "S76561198004776759",
@@ -2343,7 +2326,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:57:10",
-    "rank": 138
+    "rank": 137
   },
   {
     "player_id": "S76561199569896165",
@@ -2360,7 +2343,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:51:47",
-    "rank": 139
+    "rank": 138
   },
   {
     "player_id": "S76561198362303854",
@@ -2377,6 +2360,23 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
+    "rank": 139
+  },
+  {
+    "player_id": "S76561198274149511",
+    "driver": "Maximilian Mälk",
+    "races": 2,
+    "wins": 0,
+    "podiums": 0,
+    "points": 12,
+    "average_finish_sum": 33,
+    "average_finish": 16.5,
+    "best_lap_ms": 109495,
+    "best_lap": "1:49.495",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "Q",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
     "rank": 140
   },
   {
@@ -2737,6 +2737,40 @@
     "rank": 161
   },
   {
+    "player_id": "S76561199010443618",
+    "driver": "Yang Liu",
+    "races": 3,
+    "wins": 0,
+    "podiums": 0,
+    "points": 10,
+    "average_finish_sum": 57,
+    "average_finish": 19.0,
+    "best_lap_ms": 108252,
+    "best_lap": "1:48.252",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "Q",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 162
+  },
+  {
+    "player_id": "S76561199259314355",
+    "driver": "Saveliy Usatov",
+    "races": 8,
+    "wins": 0,
+    "podiums": 0,
+    "points": 10,
+    "average_finish_sum": 159,
+    "average_finish": 19.88,
+    "best_lap_ms": 109110,
+    "best_lap": "1:49.110",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "R",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 163
+  },
+  {
     "player_id": "S76561199001270992",
     "driver": "Gerson Schumacher",
     "races": 2,
@@ -2751,7 +2785,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:36:17",
-    "rank": 162
+    "rank": 164
   },
   {
     "player_id": "S76561199809078250",
@@ -2768,24 +2802,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 163
-  },
-  {
-    "player_id": "S76561199259314355",
-    "driver": "Saveliy Usatov",
-    "races": 7,
-    "wins": 0,
-    "podiums": 0,
-    "points": 10,
-    "average_finish_sum": 148,
-    "average_finish": 21.14,
-    "best_lap_ms": 109507,
-    "best_lap": "1:49.507",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "Q",
-    "last_track": "monza",
-    "last_seen": "2026-03-14T18:37:49",
-    "rank": 164
+    "rank": 165
   },
   {
     "player_id": "S76561199733800287",
@@ -2802,7 +2819,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 165
+    "rank": 166
   },
   {
     "player_id": "S76561199869145455",
@@ -2819,7 +2836,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:37:49",
-    "rank": 166
+    "rank": 167
   },
   {
     "player_id": "S76561198268748235",
@@ -2836,7 +2853,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 167
+    "rank": 168
   },
   {
     "player_id": "S76561198196026591",
@@ -2853,7 +2870,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 168
+    "rank": 169
   },
   {
     "player_id": "S76561198813821707",
@@ -2870,7 +2887,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:37:49",
-    "rank": 169
+    "rank": 170
   },
   {
     "player_id": "S76561199080771516",
@@ -2887,7 +2904,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-13T15:02:24",
-    "rank": 170
+    "rank": 171
   },
   {
     "player_id": "S76561198140943424",
@@ -2904,7 +2921,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 171
+    "rank": 172
   },
   {
     "player_id": "S76561199472623396",
@@ -2921,7 +2938,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T20:20:54",
-    "rank": 172
+    "rank": 173
   },
   {
     "player_id": "S76561199087007139",
@@ -2938,7 +2955,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 173
+    "rank": 174
   },
   {
     "player_id": "S76561198353252388",
@@ -2955,7 +2972,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 174
+    "rank": 175
   },
   {
     "player_id": "S76561197973503745",
@@ -2972,7 +2989,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T02:31:06",
-    "rank": 175
+    "rank": 176
   },
   {
     "player_id": "S76561198786781019",
@@ -2989,7 +3006,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T15:02:24",
-    "rank": 176
+    "rank": 177
   },
   {
     "player_id": "S76561199053195409",
@@ -3006,7 +3023,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T12:38:12",
-    "rank": 177
+    "rank": 178
   },
   {
     "player_id": "S76561198764565422",
@@ -3023,7 +3040,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T12:27:39",
-    "rank": 178
+    "rank": 179
   },
   {
     "player_id": "S76561199386135781",
@@ -3040,7 +3057,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 179
+    "rank": 180
   },
   {
     "player_id": "S76561199067170000",
@@ -3057,7 +3074,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T23:29:57",
-    "rank": 180
+    "rank": 181
   },
   {
     "player_id": "S76561198157740438",
@@ -3074,7 +3091,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:37:49",
-    "rank": 181
+    "rank": 182
   },
   {
     "player_id": "S76561198008233416",
@@ -3091,7 +3108,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 182
+    "rank": 183
   },
   {
     "player_id": "S76561199574744975",
@@ -3108,7 +3125,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 183
+    "rank": 184
   },
   {
     "player_id": "S76561198281740354",
@@ -3125,7 +3142,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 184
+    "rank": 185
   },
   {
     "player_id": "S76561199181997932",
@@ -3142,7 +3159,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 185
+    "rank": 186
   },
   {
     "player_id": "S76561197987210833",
@@ -3159,7 +3176,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T22:52:00",
-    "rank": 186
+    "rank": 187
   },
   {
     "player_id": "S76561199105499909",
@@ -3176,7 +3193,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 187
+    "rank": 188
   },
   {
     "player_id": "S76561198407575048",
@@ -3193,7 +3210,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 188
+    "rank": 189
   },
   {
     "player_id": "S76561198375782805",
@@ -3210,7 +3227,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 189
+    "rank": 190
   },
   {
     "player_id": "S76561199148272277",
@@ -3227,7 +3244,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T13:40:43",
-    "rank": 190
+    "rank": 191
   },
   {
     "player_id": "S76561199145910391",
@@ -3244,7 +3261,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 191
+    "rank": 192
   },
   {
     "player_id": "S76561197966198365",
@@ -3261,7 +3278,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 192
+    "rank": 193
   },
   {
     "player_id": "S76561198252678720",
@@ -3278,7 +3295,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 193
+    "rank": 194
   },
   {
     "player_id": "S76561198753523394",
@@ -3295,7 +3312,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 194
+    "rank": 195
   },
   {
     "player_id": "S76561199201533465",
@@ -3312,7 +3329,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 195
+    "rank": 196
   },
   {
     "player_id": "S76561198039882842",
@@ -3329,7 +3346,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T20:20:54",
-    "rank": 196
+    "rank": 197
   },
   {
     "player_id": "S76561198849977715",
@@ -3346,7 +3363,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T13:51:45",
-    "rank": 197
+    "rank": 198
   },
   {
     "player_id": "S76561199557543163",
@@ -3363,7 +3380,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T13:40:43",
-    "rank": 198
+    "rank": 199
   },
   {
     "player_id": "S76561199229436331",
@@ -3380,7 +3397,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T15:38:47",
-    "rank": 199
+    "rank": 200
   },
   {
     "player_id": "S76561198272608802",
@@ -3397,7 +3414,24 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 200
+    "rank": 201
+  },
+  {
+    "player_id": "S76561198394356539",
+    "driver": "Vitalii Obukhov",
+    "races": 1,
+    "wins": 0,
+    "podiums": 0,
+    "points": 6,
+    "average_finish_sum": 7,
+    "average_finish": 7.0,
+    "best_lap_ms": 108027,
+    "best_lap": "1:48.027",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "R",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 202
   },
   {
     "player_id": "S76561198958980605",
@@ -3414,7 +3448,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T15:02:24",
-    "rank": 201
+    "rank": 203
   },
   {
     "player_id": "S76561198401107564",
@@ -3431,7 +3465,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T22:52:00",
-    "rank": 202
+    "rank": 204
   },
   {
     "player_id": "S76561198066225558",
@@ -3448,7 +3482,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 203
+    "rank": 205
   },
   {
     "player_id": "S76561199215374615",
@@ -3465,7 +3499,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:36:17",
-    "rank": 204
+    "rank": 206
   },
   {
     "player_id": "S76561198860254842",
@@ -3482,7 +3516,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:57:10",
-    "rank": 205
+    "rank": 207
   },
   {
     "player_id": "S76561198382256948",
@@ -3499,7 +3533,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T02:03:53",
-    "rank": 206
+    "rank": 208
   },
   {
     "player_id": "S76561199804291060",
@@ -3516,7 +3550,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 207
+    "rank": 209
   },
   {
     "player_id": "S76561198186763402",
@@ -3533,7 +3567,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 208
+    "rank": 210
   },
   {
     "player_id": "S76561198054422076",
@@ -3550,7 +3584,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 209
+    "rank": 211
   },
   {
     "player_id": "S76561198327293742",
@@ -3567,7 +3601,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 210
+    "rank": 212
   },
   {
     "player_id": "S76561198081530609",
@@ -3584,7 +3618,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 211
+    "rank": 213
   },
   {
     "player_id": "S76561199093703206",
@@ -3601,7 +3635,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 212
+    "rank": 214
   },
   {
     "player_id": "S76561198446458371",
@@ -3618,7 +3652,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 213
+    "rank": 215
   },
   {
     "player_id": "S76561198770833099",
@@ -3635,24 +3669,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 214
-  },
-  {
-    "player_id": "S76561199010443618",
-    "driver": "Yang Liu",
-    "races": 2,
-    "wins": 0,
-    "podiums": 0,
-    "points": 6,
-    "average_finish_sum": 49,
-    "average_finish": 24.5,
-    "best_lap_ms": 108252,
-    "best_lap": "1:48.252",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "Q",
-    "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
-    "rank": 215
+    "rank": 216
   },
   {
     "player_id": "S76561198334346776",
@@ -3669,7 +3686,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 216
+    "rank": 217
   },
   {
     "player_id": "S76561199470086524",
@@ -3686,7 +3703,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 217
+    "rank": 218
   },
   {
     "player_id": "S76561198914625898",
@@ -3703,7 +3720,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 218
+    "rank": 219
   },
   {
     "player_id": "S76561198314819221",
@@ -3720,7 +3737,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 219
+    "rank": 220
   },
   {
     "player_id": "S76561198042667879",
@@ -3737,7 +3754,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T02:03:53",
-    "rank": 220
+    "rank": 221
   },
   {
     "player_id": "S76561199488712223",
@@ -3754,7 +3771,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T20:20:54",
-    "rank": 221
+    "rank": 222
   },
   {
     "player_id": "S76561199699277524",
@@ -3771,7 +3788,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 222
+    "rank": 223
   },
   {
     "player_id": "S76561198863217833",
@@ -3788,7 +3805,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T13:04:25",
-    "rank": 223
+    "rank": 224
   },
   {
     "player_id": "S76561199109347729",
@@ -3805,7 +3822,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T02:31:06",
-    "rank": 224
+    "rank": 225
   },
   {
     "player_id": "S76561198202701952",
@@ -3822,7 +3839,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 225
+    "rank": 226
   },
   {
     "player_id": "S76561199836241973",
@@ -3839,7 +3856,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:57:10",
-    "rank": 226
+    "rank": 227
   },
   {
     "player_id": "S76561198115672033",
@@ -3856,7 +3873,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 227
+    "rank": 228
   },
   {
     "player_id": "S76561198808595059",
@@ -3873,7 +3890,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:21:24",
-    "rank": 228
+    "rank": 229
   },
   {
     "player_id": "S76561198013526551",
@@ -3890,7 +3907,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 229
+    "rank": 230
   },
   {
     "player_id": "S76561199568775687",
@@ -3907,23 +3924,6 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T23:29:57",
-    "rank": 230
-  },
-  {
-    "player_id": "S76561199311048166",
-    "driver": "Tetsu Rattanaprapa",
-    "races": 2,
-    "wins": 0,
-    "podiums": 0,
-    "points": 4,
-    "average_finish_sum": 42,
-    "average_finish": 21.0,
-    "best_lap_ms": 110287,
-    "best_lap": "1:50.287",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "R",
-    "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
     "rank": 231
   },
   {
@@ -4012,6 +4012,23 @@
     "rank": 236
   },
   {
+    "player_id": "S76561199311048166",
+    "driver": "Peam Rattanaprapa",
+    "races": 3,
+    "wins": 0,
+    "podiums": 0,
+    "points": 4,
+    "average_finish_sum": 77,
+    "average_finish": 25.67,
+    "best_lap_ms": 110287,
+    "best_lap": "1:50.287",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "R",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 237
+  },
+  {
     "player_id": "S76561198746009775",
     "driver": "Fedor Shishlin",
     "races": 8,
@@ -4026,7 +4043,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:10:08",
-    "rank": 237
+    "rank": 238
   },
   {
     "player_id": "S76561198999323224",
@@ -4043,7 +4060,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 238
+    "rank": 239
   },
   {
     "player_id": "S76561198095738801",
@@ -4060,7 +4077,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 239
+    "rank": 240
   },
   {
     "player_id": "S76561198249728486",
@@ -4077,7 +4094,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 240
+    "rank": 241
   },
   {
     "player_id": "S76561199585967379",
@@ -4094,7 +4111,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T02:38:02",
-    "rank": 241
+    "rank": 242
   },
   {
     "player_id": "S76561198084778030",
@@ -4111,7 +4128,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 242
+    "rank": 243
   },
   {
     "player_id": "S76561198027605398",
@@ -4128,7 +4145,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 243
+    "rank": 244
   },
   {
     "player_id": "S76561199846248931",
@@ -4145,7 +4162,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 244
+    "rank": 245
   },
   {
     "player_id": "S76561199472706759",
@@ -4162,7 +4179,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 245
+    "rank": 246
   },
   {
     "player_id": "S76561199722644646",
@@ -4179,7 +4196,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:37:49",
-    "rank": 246
+    "rank": 247
   },
   {
     "player_id": "S76561198124380786",
@@ -4196,7 +4213,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T23:29:57",
-    "rank": 247
+    "rank": 248
   },
   {
     "player_id": "S76561199527827999",
@@ -4213,7 +4230,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T13:40:43",
-    "rank": 248
+    "rank": 249
   },
   {
     "player_id": "S76561198012234404",
@@ -4230,7 +4247,24 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 249
+    "rank": 250
+  },
+  {
+    "player_id": "S76561199066952614",
+    "driver": "Wesley Daniels",
+    "races": 1,
+    "wins": 0,
+    "podiums": 0,
+    "points": 2,
+    "average_finish_sum": 9,
+    "average_finish": 9.0,
+    "best_lap_ms": 109257,
+    "best_lap": "1:49.257",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "Q",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 251
   },
   {
     "player_id": "S76561198931036063",
@@ -4247,7 +4281,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T02:31:06",
-    "rank": 250
+    "rank": 252
   },
   {
     "player_id": "S76561199166634483",
@@ -4264,7 +4298,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T15:02:24",
-    "rank": 251
+    "rank": 253
   },
   {
     "player_id": "S76561198878520295",
@@ -4281,7 +4315,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:57:10",
-    "rank": 252
+    "rank": 254
   },
   {
     "player_id": "S76561198015562838",
@@ -4298,7 +4332,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:23:13",
-    "rank": 253
+    "rank": 255
   },
   {
     "player_id": "S76561198330004454",
@@ -4315,7 +4349,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T01:27:30",
-    "rank": 254
+    "rank": 256
   },
   {
     "player_id": "S76561198077044713",
@@ -4332,7 +4366,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 255
+    "rank": 257
   },
   {
     "player_id": "S76561199800848162",
@@ -4349,7 +4383,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 256
+    "rank": 258
   },
   {
     "player_id": "S76561198004597812",
@@ -4366,7 +4400,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 257
+    "rank": 259
   },
   {
     "player_id": "S76561198294129016",
@@ -4383,7 +4417,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:36:17",
-    "rank": 258
+    "rank": 260
   },
   {
     "player_id": "S76561199806168306",
@@ -4400,24 +4434,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:53:49",
-    "rank": 259
-  },
-  {
-    "player_id": "S76561199884705766",
-    "driver": "wei wei",
-    "races": 2,
-    "wins": 0,
-    "podiums": 0,
-    "points": 2,
-    "average_finish_sum": 43,
-    "average_finish": 21.5,
-    "best_lap_ms": 109077,
-    "best_lap": "1:49.077",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "Q",
-    "last_track": "monza",
-    "last_seen": "2026-03-14T17:59:58",
-    "rank": 260
+    "rank": 261
   },
   {
     "player_id": "S76561198052062082",
@@ -4434,7 +4451,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 261
+    "rank": 262
   },
   {
     "player_id": "S76561198335759402",
@@ -4451,7 +4468,24 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T13:40:43",
-    "rank": 262
+    "rank": 263
+  },
+  {
+    "player_id": "S76561199884705766",
+    "driver": "wei wei",
+    "races": 3,
+    "wins": 0,
+    "podiums": 0,
+    "points": 2,
+    "average_finish_sum": 71,
+    "average_finish": 23.67,
+    "best_lap_ms": 109077,
+    "best_lap": "1:49.077",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "Q",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 264
   },
   {
     "player_id": "S76561198252808878",
@@ -4468,24 +4502,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:21:24",
-    "rank": 263
-  },
-  {
-    "player_id": "S76561199697276503",
-    "driver": "Billi !57",
-    "races": 1,
-    "wins": 0,
-    "podiums": 0,
-    "points": 1,
-    "average_finish_sum": 10,
-    "average_finish": 10.0,
-    "best_lap_ms": 110487,
-    "best_lap": "1:50.487",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "R",
-    "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
-    "rank": 264
+    "rank": 265
   },
   {
     "player_id": "S76561198117315734",
@@ -4502,7 +4519,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T01:27:30",
-    "rank": 265
+    "rank": 266
   },
   {
     "player_id": "S76561199234560706",
@@ -4519,7 +4536,24 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:36:17",
-    "rank": 266
+    "rank": 267
+  },
+  {
+    "player_id": "S76561199098030950",
+    "driver": "Vladimir Eremin",
+    "races": 1,
+    "wins": 0,
+    "podiums": 0,
+    "points": 1,
+    "average_finish_sum": 10,
+    "average_finish": 10.0,
+    "best_lap_ms": 110630,
+    "best_lap": "1:50.630",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "Q",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 268
   },
   {
     "player_id": "S76561198366431979",
@@ -4536,7 +4570,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 267
+    "rank": 269
   },
   {
     "player_id": "S76561198273396638",
@@ -4553,7 +4587,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 268
+    "rank": 270
   },
   {
     "player_id": "S76561198004467025",
@@ -4570,7 +4604,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 269
+    "rank": 271
   },
   {
     "player_id": "S76561198224625488",
@@ -4587,7 +4621,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T12:27:39",
-    "rank": 270
+    "rank": 272
   },
   {
     "player_id": "S76561199602024048",
@@ -4604,7 +4638,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 271
+    "rank": 273
   },
   {
     "player_id": "S76561199483856711",
@@ -4621,7 +4655,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:51:47",
-    "rank": 272
+    "rank": 274
   },
   {
     "player_id": "S76561198215340492",
@@ -4638,24 +4672,24 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:57:10",
-    "rank": 273
+    "rank": 275
   },
   {
     "player_id": "S76561198153698344",
     "driver": "Dmitriy Selemetov",
-    "races": 5,
+    "races": 6,
     "wins": 0,
     "podiums": 0,
     "points": 1,
-    "average_finish_sum": 88,
-    "average_finish": 17.6,
+    "average_finish_sum": 100,
+    "average_finish": 16.67,
     "best_lap_ms": 109600,
     "best_lap": "1:49.600",
     "best_lap_track": "monza",
     "best_lap_session_type": "Q",
     "last_track": "monza",
-    "last_seen": "2026-03-14T17:23:13",
-    "rank": 274
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 276
   },
   {
     "player_id": "S76561198409465737",
@@ -4672,7 +4706,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T23:29:57",
-    "rank": 275
+    "rank": 277
   },
   {
     "player_id": "S76561199216079178",
@@ -4689,7 +4723,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 276
+    "rank": 278
   },
   {
     "player_id": "S76561199150509810",
@@ -4706,7 +4740,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T13:40:43",
-    "rank": 277
+    "rank": 279
   },
   {
     "player_id": "S76561198084592210",
@@ -4723,7 +4757,41 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:21:24",
-    "rank": 278
+    "rank": 280
+  },
+  {
+    "player_id": "S76561199697276503",
+    "driver": "Billi !57",
+    "races": 2,
+    "wins": 0,
+    "podiums": 0,
+    "points": 1,
+    "average_finish_sum": 46,
+    "average_finish": 23.0,
+    "best_lap_ms": 110487,
+    "best_lap": "1:50.487",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "R",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 281
+  },
+  {
+    "player_id": "S76561198018466166",
+    "driver": "Jura Avramenko",
+    "races": 13,
+    "wins": 0,
+    "podiums": 0,
+    "points": 1,
+    "average_finish_sum": 302,
+    "average_finish": 23.23,
+    "best_lap_ms": 110250,
+    "best_lap": "1:50.250",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "Q",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 282
   },
   {
     "player_id": "S76561199129429838",
@@ -4740,7 +4808,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 279
+    "rank": 283
   },
   {
     "player_id": "S76561198029225698",
@@ -4757,24 +4825,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:37:49",
-    "rank": 280
-  },
-  {
-    "player_id": "S76561198018466166",
-    "driver": "Jura Avramenko",
-    "races": 12,
-    "wins": 0,
-    "podiums": 0,
-    "points": 1,
-    "average_finish_sum": 284,
-    "average_finish": 23.67,
-    "best_lap_ms": 110250,
-    "best_lap": "1:50.250",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "Q",
-    "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
-    "rank": 281
+    "rank": 284
   },
   {
     "player_id": "S76561198871948501",
@@ -4791,7 +4842,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 282
+    "rank": 285
   },
   {
     "player_id": "S76561199378861781",
@@ -4808,7 +4859,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 283
+    "rank": 286
   },
   {
     "player_id": "S76561198797650574",
@@ -4825,7 +4876,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 284
+    "rank": 287
   },
   {
     "player_id": "S76561198109066740",
@@ -4842,7 +4893,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 285
+    "rank": 288
   },
   {
     "player_id": "S76561198079468467",
@@ -4859,24 +4910,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 286
-  },
-  {
-    "player_id": "S76561198884095833",
-    "driver": "Pino Majuli",
-    "races": 3,
-    "wins": 0,
-    "podiums": 0,
-    "points": 1,
-    "average_finish_sum": 86,
-    "average_finish": 28.67,
-    "best_lap_ms": 111585,
-    "best_lap": "1:51.585",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "R",
-    "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
-    "rank": 287
+    "rank": 289
   },
   {
     "player_id": "S76561198860318883",
@@ -4893,7 +4927,24 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 288
+    "rank": 290
+  },
+  {
+    "player_id": "S76561198884095833",
+    "driver": "Pino Majuli",
+    "races": 4,
+    "wins": 0,
+    "podiums": 0,
+    "points": 1,
+    "average_finish_sum": 124,
+    "average_finish": 31.0,
+    "best_lap_ms": 111585,
+    "best_lap": "1:51.585",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "R",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 291
   },
   {
     "player_id": "S76561198178613602",
@@ -4910,7 +4961,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 289
+    "rank": 292
   },
   {
     "player_id": "S76561198163469432",
@@ -4927,7 +4978,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T02:38:02",
-    "rank": 290
+    "rank": 293
   },
   {
     "player_id": "S76561198157089298",
@@ -4944,7 +4995,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 291
+    "rank": 294
   },
   {
     "player_id": "S76561198074061057",
@@ -4961,7 +5012,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T12:27:39",
-    "rank": 292
+    "rank": 295
   },
   {
     "player_id": "S76561198798249929",
@@ -4978,7 +5029,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T15:38:47",
-    "rank": 293
+    "rank": 296
   },
   {
     "player_id": "S76561198848691587",
@@ -4995,7 +5046,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 294
+    "rank": 297
   },
   {
     "player_id": "S76561199057541942",
@@ -5012,7 +5063,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T13:40:43",
-    "rank": 295
+    "rank": 298
   },
   {
     "player_id": "S76561198423581082",
@@ -5029,7 +5080,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 296
+    "rank": 299
   },
   {
     "player_id": "S76561198247750642",
@@ -5046,7 +5097,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 297
+    "rank": 300
   },
   {
     "player_id": "S76561198325026433",
@@ -5063,7 +5114,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T15:02:24",
-    "rank": 298
+    "rank": 301
   },
   {
     "player_id": "S76561198242159762",
@@ -5080,7 +5131,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T15:02:24",
-    "rank": 299
+    "rank": 302
   },
   {
     "player_id": "S76561198340041042",
@@ -5097,7 +5148,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 300
+    "rank": 303
   },
   {
     "player_id": "S76561198000521285",
@@ -5114,7 +5165,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 301
+    "rank": 304
   },
   {
     "player_id": "S76561198936842672",
@@ -5131,7 +5182,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:14:06",
-    "rank": 302
+    "rank": 305
   },
   {
     "player_id": "S76561199828682409",
@@ -5148,7 +5199,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:36:17",
-    "rank": 303
+    "rank": 306
   },
   {
     "player_id": "S76561198010480035",
@@ -5165,7 +5216,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T00:04:53",
-    "rank": 304
+    "rank": 307
   },
   {
     "player_id": "S76561198155259322",
@@ -5182,7 +5233,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 305
+    "rank": 308
   },
   {
     "player_id": "S76561198078603253",
@@ -5199,7 +5250,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 306
+    "rank": 309
   },
   {
     "player_id": "S76561198999553253",
@@ -5216,7 +5267,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:10:08",
-    "rank": 307
+    "rank": 310
   },
   {
     "player_id": "S76561197968890656",
@@ -5233,7 +5284,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 308
+    "rank": 311
   },
   {
     "player_id": "S76561198154697801",
@@ -5250,7 +5301,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T23:29:57",
-    "rank": 309
+    "rank": 312
   },
   {
     "player_id": "S76561199278582847",
@@ -5267,7 +5318,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T15:38:47",
-    "rank": 310
+    "rank": 313
   },
   {
     "player_id": "S76561199182092688",
@@ -5284,7 +5335,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 311
+    "rank": 314
   },
   {
     "player_id": "S76561198196079429",
@@ -5301,7 +5352,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T15:38:47",
-    "rank": 312
+    "rank": 315
   },
   {
     "player_id": "S76561198094528619",
@@ -5318,7 +5369,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 313
+    "rank": 316
   },
   {
     "player_id": "S76561198051804295",
@@ -5335,7 +5386,24 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:57:10",
-    "rank": 314
+    "rank": 317
+  },
+  {
+    "player_id": "S76561199837687129",
+    "driver": "Ryszard Kaka",
+    "races": 2,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 29,
+    "average_finish": 14.5,
+    "best_lap_ms": 111510,
+    "best_lap": "1:51.510",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "R",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 318
   },
   {
     "player_id": "S76561198422301675",
@@ -5352,7 +5420,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:10:08",
-    "rank": 315
+    "rank": 319
   },
   {
     "player_id": "S76561198429765164",
@@ -5369,7 +5437,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 316
+    "rank": 320
   },
   {
     "player_id": "S76561199792583846",
@@ -5386,7 +5454,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 317
+    "rank": 321
   },
   {
     "player_id": "S76561199158048354",
@@ -5403,7 +5471,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 318
+    "rank": 322
   },
   {
     "player_id": "S76561198137006184",
@@ -5420,7 +5488,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 319
+    "rank": 323
   },
   {
     "player_id": "S76561197961626165",
@@ -5437,7 +5505,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 320
+    "rank": 324
   },
   {
     "player_id": "S76561199626179120",
@@ -5454,7 +5522,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 321
+    "rank": 325
   },
   {
     "player_id": "S76561198868282502",
@@ -5471,7 +5539,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:14:06",
-    "rank": 322
+    "rank": 326
   },
   {
     "player_id": "S76561198102909955",
@@ -5488,7 +5556,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:57:10",
-    "rank": 323
+    "rank": 327
   },
   {
     "player_id": "S76561199523863168",
@@ -5505,7 +5573,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 324
+    "rank": 328
   },
   {
     "player_id": "S76561199220305632",
@@ -5522,7 +5590,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T23:29:57",
-    "rank": 325
+    "rank": 329
   },
   {
     "player_id": "S76561199013359714",
@@ -5539,7 +5607,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T02:03:53",
-    "rank": 326
+    "rank": 330
   },
   {
     "player_id": "S76561198073125899",
@@ -5556,24 +5624,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T13:04:25",
-    "rank": 327
-  },
-  {
-    "player_id": "S76561199837687129",
-    "driver": "Ryszard Kaka",
-    "races": 1,
-    "wins": 0,
-    "podiums": 0,
-    "points": 0,
-    "average_finish_sum": 16,
-    "average_finish": 16.0,
-    "best_lap_ms": 111510,
-    "best_lap": "1:51.510",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "R",
-    "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
-    "rank": 328
+    "rank": 331
   },
   {
     "player_id": "S76561198864912470",
@@ -5590,7 +5641,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:57:10",
-    "rank": 329
+    "rank": 332
   },
   {
     "player_id": "S76561199019682032",
@@ -5607,7 +5658,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:37:49",
-    "rank": 330
+    "rank": 333
   },
   {
     "player_id": "S76561198168013035",
@@ -5624,7 +5675,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 331
+    "rank": 334
   },
   {
     "player_id": "S76561198217836428",
@@ -5641,7 +5692,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 332
+    "rank": 335
   },
   {
     "player_id": "S76561198855910089",
@@ -5658,7 +5709,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 333
+    "rank": 336
   },
   {
     "player_id": "S76561198822634508",
@@ -5675,7 +5726,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 334
+    "rank": 337
   },
   {
     "player_id": "S76561199001997369",
@@ -5692,7 +5743,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T00:43:20",
-    "rank": 335
+    "rank": 338
   },
   {
     "player_id": "S76561198391324772",
@@ -5709,7 +5760,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:23:13",
-    "rank": 336
+    "rank": 339
   },
   {
     "player_id": "S76561198037917126",
@@ -5726,7 +5777,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 337
+    "rank": 340
   },
   {
     "player_id": "S76561198190430982",
@@ -5743,7 +5794,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 338
+    "rank": 341
   },
   {
     "player_id": "S76561199184665674",
@@ -5760,7 +5811,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:57:10",
-    "rank": 339
+    "rank": 342
   },
   {
     "player_id": "S76561198150149117",
@@ -5777,7 +5828,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 340
+    "rank": 343
   },
   {
     "player_id": "S76561198090533895",
@@ -5794,7 +5845,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:36:17",
-    "rank": 341
+    "rank": 344
   },
   {
     "player_id": "S76561198240879802",
@@ -5811,7 +5862,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 342
+    "rank": 345
   },
   {
     "player_id": "S76561199026112223",
@@ -5828,7 +5879,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:10:08",
-    "rank": 343
+    "rank": 346
   },
   {
     "player_id": "S76561199065868797",
@@ -5845,7 +5896,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T13:04:25",
-    "rank": 344
+    "rank": 347
   },
   {
     "player_id": "S76561198820970690",
@@ -5862,7 +5913,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:53:49",
-    "rank": 345
+    "rank": 348
   },
   {
     "player_id": "S76561199079263110",
@@ -5879,7 +5930,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 346
+    "rank": 349
   },
   {
     "player_id": "S76561198860855355",
@@ -5896,7 +5947,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 347
+    "rank": 350
   },
   {
     "player_id": "S76561198364464739",
@@ -5913,7 +5964,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 348
+    "rank": 351
   },
   {
     "player_id": "S76561199221565706",
@@ -5930,24 +5981,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 349
-  },
-  {
-    "player_id": "S76561199115184836",
-    "driver": "Wojtek Kucz",
-    "races": 1,
-    "wins": 0,
-    "podiums": 0,
-    "points": 0,
-    "average_finish_sum": 18,
-    "average_finish": 18.0,
-    "best_lap_ms": 110400,
-    "best_lap": "1:50.400",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "Q",
-    "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
-    "rank": 350
+    "rank": 352
   },
   {
     "player_id": "S76561199529589324",
@@ -5964,7 +5998,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 351
+    "rank": 353
   },
   {
     "player_id": "S76561198031726800",
@@ -5981,7 +6015,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 352
+    "rank": 354
   },
   {
     "player_id": "S76561199635071543",
@@ -5998,7 +6032,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 353
+    "rank": 355
   },
   {
     "player_id": "S76561199036931326",
@@ -6015,7 +6049,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 354
+    "rank": 356
   },
   {
     "player_id": "S76561198074645397",
@@ -6032,7 +6066,24 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 355
+    "rank": 357
+  },
+  {
+    "player_id": "S76561198987988669",
+    "driver": "Daniil Mcqeen",
+    "races": 1,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 19,
+    "average_finish": 19.0,
+    "best_lap_ms": 109960,
+    "best_lap": "1:49.960",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "R",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 358
   },
   {
     "player_id": "S76561198168395063",
@@ -6049,7 +6100,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 356
+    "rank": 359
   },
   {
     "player_id": "S76561198865572025",
@@ -6066,7 +6117,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T00:04:53",
-    "rank": 357
+    "rank": 360
   },
   {
     "player_id": "S76561198450822449",
@@ -6083,7 +6134,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 358
+    "rank": 361
   },
   {
     "player_id": "S76561198045178851",
@@ -6100,7 +6151,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T00:43:20",
-    "rank": 359
+    "rank": 362
   },
   {
     "player_id": "S76561198299878298",
@@ -6117,7 +6168,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:14:06",
-    "rank": 360
+    "rank": 363
   },
   {
     "player_id": "S76561198066025247",
@@ -6134,7 +6185,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T00:43:20",
-    "rank": 361
+    "rank": 364
   },
   {
     "player_id": "S76561198217284719",
@@ -6151,7 +6202,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T00:51:47",
-    "rank": 362
+    "rank": 365
   },
   {
     "player_id": "S76561199181300213",
@@ -6168,7 +6219,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 363
+    "rank": 366
   },
   {
     "player_id": "S76561198152518871",
@@ -6185,7 +6236,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:53:49",
-    "rank": 364
+    "rank": 367
   },
   {
     "player_id": "S76561198943097047",
@@ -6202,7 +6253,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:23:13",
-    "rank": 365
+    "rank": 368
   },
   {
     "player_id": "S76561198449286334",
@@ -6219,7 +6270,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 366
+    "rank": 369
   },
   {
     "player_id": "S76561199481945815",
@@ -6236,7 +6287,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 367
+    "rank": 370
   },
   {
     "player_id": "S76561198977934675",
@@ -6253,7 +6304,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 368
+    "rank": 371
   },
   {
     "player_id": "S76561198447480389",
@@ -6270,7 +6321,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 369
+    "rank": 372
   },
   {
     "player_id": "S76561199579645593",
@@ -6287,7 +6338,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 370
+    "rank": 373
   },
   {
     "player_id": "S76561198357064291",
@@ -6304,7 +6355,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 371
+    "rank": 374
   },
   {
     "player_id": "S76561198979684740",
@@ -6321,7 +6372,24 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T13:40:43",
-    "rank": 372
+    "rank": 375
+  },
+  {
+    "player_id": "S76561199434286900",
+    "driver": "Dominic Kitel",
+    "races": 5,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 102,
+    "average_finish": 20.4,
+    "best_lap_ms": 108347,
+    "best_lap": "1:48.347",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "R",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 376
   },
   {
     "player_id": "S76561199073312795",
@@ -6338,7 +6406,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:57:10",
-    "rank": 373
+    "rank": 377
   },
   {
     "player_id": "S76561198841382196",
@@ -6355,7 +6423,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T13:04:25",
-    "rank": 374
+    "rank": 378
   },
   {
     "player_id": "S76561198362167549",
@@ -6372,7 +6440,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T00:04:53",
-    "rank": 375
+    "rank": 379
   },
   {
     "player_id": "S76561198164631540",
@@ -6389,7 +6457,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 376
+    "rank": 380
   },
   {
     "player_id": "S76561198856441427",
@@ -6406,7 +6474,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T00:51:47",
-    "rank": 377
+    "rank": 381
   },
   {
     "player_id": "S76561198950714068",
@@ -6423,7 +6491,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T22:52:00",
-    "rank": 378
+    "rank": 382
   },
   {
     "player_id": "S76561199808821216",
@@ -6440,7 +6508,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 379
+    "rank": 383
   },
   {
     "player_id": "S76561199225930624",
@@ -6457,7 +6525,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 380
+    "rank": 384
   },
   {
     "player_id": "S76561199556835080",
@@ -6474,7 +6542,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 381
+    "rank": 385
   },
   {
     "player_id": "S76561198380851514",
@@ -6491,7 +6559,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T00:04:53",
-    "rank": 382
+    "rank": 386
   },
   {
     "player_id": "S76561198450243868",
@@ -6508,7 +6576,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T00:43:20",
-    "rank": 383
+    "rank": 387
   },
   {
     "player_id": "S76561199238602743",
@@ -6525,7 +6593,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:21:24",
-    "rank": 384
+    "rank": 388
   },
   {
     "player_id": "S76561199098668784",
@@ -6542,7 +6610,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 385
+    "rank": 389
   },
   {
     "player_id": "S76561197990177125",
@@ -6559,7 +6627,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 386
+    "rank": 390
   },
   {
     "player_id": "S76561198882064591",
@@ -6576,7 +6644,24 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 387
+    "rank": 391
+  },
+  {
+    "player_id": "S76561198163390206",
+    "driver": "Please SaveMyAss",
+    "races": 1,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 21,
+    "average_finish": 21.0,
+    "best_lap_ms": 113150,
+    "best_lap": "1:53.150",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "R",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 392
   },
   {
     "player_id": "S76561198042315101",
@@ -6593,7 +6678,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 388
+    "rank": 393
   },
   {
     "player_id": "S76561199238371377",
@@ -6610,7 +6695,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 389
+    "rank": 394
   },
   {
     "player_id": "S76561198123397673",
@@ -6627,7 +6712,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 390
+    "rank": 395
   },
   {
     "player_id": "S76561197973852106",
@@ -6644,7 +6729,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 391
+    "rank": 396
   },
   {
     "player_id": "S76561199014751308",
@@ -6661,7 +6746,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 392
+    "rank": 397
   },
   {
     "player_id": "S76561199232841993",
@@ -6678,7 +6763,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 393
+    "rank": 398
   },
   {
     "player_id": "S76561197994729437",
@@ -6695,24 +6780,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 394
-  },
-  {
-    "player_id": "S76561199434286900",
-    "driver": "Dominic Kitel",
-    "races": 4,
-    "wins": 0,
-    "podiums": 0,
-    "points": 0,
-    "average_finish_sum": 88,
-    "average_finish": 22.0,
-    "best_lap_ms": 109187,
-    "best_lap": "1:49.187",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "R",
-    "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
-    "rank": 395
+    "rank": 399
   },
   {
     "player_id": "S76561199197654478",
@@ -6729,7 +6797,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:23:13",
-    "rank": 396
+    "rank": 400
   },
   {
     "player_id": "S76561199590407628",
@@ -6746,7 +6814,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:10:08",
-    "rank": 397
+    "rank": 401
   },
   {
     "player_id": "S76561199176137725",
@@ -6763,7 +6831,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 398
+    "rank": 402
   },
   {
     "player_id": "S76561199017014344",
@@ -6780,7 +6848,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 399
+    "rank": 403
   },
   {
     "player_id": "S76561198055301114",
@@ -6797,7 +6865,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 400
+    "rank": 404
   },
   {
     "player_id": "S76561198215041781",
@@ -6814,7 +6882,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:37:49",
-    "rank": 401
+    "rank": 405
   },
   {
     "player_id": "S76561198060645583",
@@ -6831,7 +6899,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 402
+    "rank": 406
   },
   {
     "player_id": "S76561198767123434",
@@ -6848,7 +6916,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T00:51:47",
-    "rank": 403
+    "rank": 407
   },
   {
     "player_id": "S76561199038002313",
@@ -6865,7 +6933,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 404
+    "rank": 408
   },
   {
     "player_id": "S76561199009323884",
@@ -6882,7 +6950,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 405
+    "rank": 409
   },
   {
     "player_id": "S76561199021800372",
@@ -6899,7 +6967,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 406
+    "rank": 410
   },
   {
     "player_id": "S76561198343727723",
@@ -6916,7 +6984,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 407
+    "rank": 411
   },
   {
     "player_id": "S76561199227718578",
@@ -6933,7 +7001,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:21:24",
-    "rank": 408
+    "rank": 412
   },
   {
     "player_id": "S76561198205494119",
@@ -6950,7 +7018,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-13T23:29:57",
-    "rank": 409
+    "rank": 413
   },
   {
     "player_id": "S76561198211561689",
@@ -6967,7 +7035,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:21:24",
-    "rank": 410
+    "rank": 414
   },
   {
     "player_id": "S76561198798914433",
@@ -6984,7 +7052,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 411
+    "rank": 415
   },
   {
     "player_id": "S76561199219615478",
@@ -7001,7 +7069,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T23:29:57",
-    "rank": 412
+    "rank": 416
   },
   {
     "player_id": "S76561198139715230",
@@ -7018,7 +7086,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 413
+    "rank": 417
   },
   {
     "player_id": "S76561198766420841",
@@ -7035,7 +7103,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T13:40:43",
-    "rank": 414
+    "rank": 418
   },
   {
     "player_id": "S76561199790287469",
@@ -7052,7 +7120,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:14:06",
-    "rank": 415
+    "rank": 419
   },
   {
     "player_id": "S76561198138994408",
@@ -7069,7 +7137,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 416
+    "rank": 420
   },
   {
     "player_id": "S76561198821924293",
@@ -7086,7 +7154,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 417
+    "rank": 421
   },
   {
     "player_id": "S76561199036450199",
@@ -7103,7 +7171,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T00:04:53",
-    "rank": 418
+    "rank": 422
   },
   {
     "player_id": "S76561199727821367",
@@ -7120,7 +7188,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 419
+    "rank": 423
   },
   {
     "player_id": "S76561198063422357",
@@ -7137,7 +7205,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 420
+    "rank": 424
   },
   {
     "player_id": "S76561199135901769",
@@ -7154,7 +7222,24 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 421
+    "rank": 425
+  },
+  {
+    "player_id": "S76561198024601244",
+    "driver": "Vitalia Naumenko",
+    "races": 1,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 23,
+    "average_finish": 23.0,
+    "best_lap_ms": 110927,
+    "best_lap": "1:50.927",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "R",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 426
   },
   {
     "player_id": "S76561199364906272",
@@ -7171,7 +7256,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:10:08",
-    "rank": 422
+    "rank": 427
   },
   {
     "player_id": "S76561198837196853",
@@ -7188,7 +7273,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 423
+    "rank": 428
   },
   {
     "player_id": "S76561198023550786",
@@ -7205,7 +7290,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:23:13",
-    "rank": 424
+    "rank": 429
   },
   {
     "player_id": "S76561199310151252",
@@ -7222,7 +7307,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 425
+    "rank": 430
   },
   {
     "player_id": "S76561198831430670",
@@ -7239,7 +7324,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:10:08",
-    "rank": 426
+    "rank": 431
   },
   {
     "player_id": "S76561197993593593",
@@ -7256,7 +7341,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 427
+    "rank": 432
   },
   {
     "player_id": "S76561197984703970",
@@ -7273,7 +7358,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 428
+    "rank": 433
   },
   {
     "player_id": "S76561198257771547",
@@ -7290,7 +7375,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:21:24",
-    "rank": 429
+    "rank": 434
   },
   {
     "player_id": "S76561198265376855",
@@ -7307,7 +7392,24 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 430
+    "rank": 435
+  },
+  {
+    "player_id": "S76561197980218440",
+    "driver": "Fernando Casado",
+    "races": 1,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 24,
+    "average_finish": 24.0,
+    "best_lap_ms": 109647,
+    "best_lap": "1:49.647",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "R",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 436
   },
   {
     "player_id": "S76561198159333169",
@@ -7324,7 +7426,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:21:24",
-    "rank": 431
+    "rank": 437
   },
   {
     "player_id": "S76561198255681360",
@@ -7341,7 +7443,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 432
+    "rank": 438
   },
   {
     "player_id": "S76561199211016630",
@@ -7358,7 +7460,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 433
+    "rank": 439
   },
   {
     "player_id": "S76561198277920018",
@@ -7375,7 +7477,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 434
+    "rank": 440
   },
   {
     "player_id": "S76561198391042889",
@@ -7392,7 +7494,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T00:04:53",
-    "rank": 435
+    "rank": 441
   },
   {
     "player_id": "S76561198244091548",
@@ -7409,7 +7511,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T13:14:06",
-    "rank": 436
+    "rank": 442
   },
   {
     "player_id": "S76561198113845002",
@@ -7426,7 +7528,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:21:24",
-    "rank": 437
+    "rank": 443
   },
   {
     "player_id": "S76561198328336466",
@@ -7443,7 +7545,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 438
+    "rank": 444
   },
   {
     "player_id": "S76561198766503907",
@@ -7460,7 +7562,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 439
+    "rank": 445
   },
   {
     "player_id": "S76561199051792597",
@@ -7477,7 +7579,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 440
+    "rank": 446
   },
   {
     "player_id": "S76561198839233618",
@@ -7494,7 +7596,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 441
+    "rank": 447
   },
   {
     "player_id": "S76561198308663779",
@@ -7511,24 +7613,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 442
-  },
-  {
-    "player_id": "S76561199026812541",
-    "driver": "chieffieman chieffieman",
-    "races": 3,
-    "wins": 0,
-    "podiums": 0,
-    "points": 0,
-    "average_finish_sum": 75,
-    "average_finish": 25.0,
-    "best_lap_ms": 108310,
-    "best_lap": "1:48.310",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "R",
-    "last_track": "monza",
-    "last_seen": "2026-03-14T13:40:43",
-    "rank": 443
+    "rank": 448
   },
   {
     "player_id": "S76561199653127712",
@@ -7545,7 +7630,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 444
+    "rank": 449
   },
   {
     "player_id": "S76561198176846911",
@@ -7562,7 +7647,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 445
+    "rank": 450
   },
   {
     "player_id": "S76561198418138913",
@@ -7579,7 +7664,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 446
+    "rank": 451
   },
   {
     "player_id": "S76561199808674822",
@@ -7596,7 +7681,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T13:40:43",
-    "rank": 447
+    "rank": 452
   },
   {
     "player_id": "S76561198809279519",
@@ -7613,7 +7698,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:14:06",
-    "rank": 448
+    "rank": 453
   },
   {
     "player_id": "S76561199724062770",
@@ -7630,7 +7715,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T01:57:10",
-    "rank": 449
+    "rank": 454
   },
   {
     "player_id": "S76561199806957753",
@@ -7647,7 +7732,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T00:04:53",
-    "rank": 450
+    "rank": 455
   },
   {
     "player_id": "S76561198349092324",
@@ -7664,7 +7749,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T17:23:13",
-    "rank": 451
+    "rank": 456
   },
   {
     "player_id": "S76561199577127143",
@@ -7681,7 +7766,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T01:21:24",
-    "rank": 452
+    "rank": 457
   },
   {
     "player_id": "S76561198199148149",
@@ -7698,7 +7783,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T00:04:53",
-    "rank": 453
+    "rank": 458
   },
   {
     "player_id": "S76561198224845272",
@@ -7715,7 +7800,24 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 454
+    "rank": 459
+  },
+  {
+    "player_id": "S76561199032998856",
+    "driver": "Valerka Kotov",
+    "races": 1,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 25,
+    "average_finish": 25.0,
+    "best_lap_ms": 110257,
+    "best_lap": "1:50.257",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "Q",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 460
   },
   {
     "player_id": "S76561199219208085",
@@ -7732,7 +7834,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 455
+    "rank": 461
   },
   {
     "player_id": "S76561199106441335",
@@ -7749,7 +7851,24 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T21:36:17",
-    "rank": 456
+    "rank": 462
+  },
+  {
+    "player_id": "S76561199115184836",
+    "driver": "Wojtek Kucz",
+    "races": 2,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 50,
+    "average_finish": 25.0,
+    "best_lap_ms": 110400,
+    "best_lap": "1:50.400",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "Q",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 463
   },
   {
     "player_id": "S76561198278896473",
@@ -7766,7 +7885,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 457
+    "rank": 464
   },
   {
     "player_id": "S76561198164311690",
@@ -7783,7 +7902,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 458
+    "rank": 465
   },
   {
     "player_id": "S76561199110300915",
@@ -7800,7 +7919,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T21:36:17",
-    "rank": 459
+    "rank": 466
   },
   {
     "player_id": "S76561199211942686",
@@ -7817,7 +7936,24 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 460
+    "rank": 467
+  },
+  {
+    "player_id": "S76561198057999949",
+    "driver": "Luca Rizzo [SIK]",
+    "races": 3,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 76,
+    "average_finish": 25.33,
+    "best_lap_ms": 108085,
+    "best_lap": "1:48.085",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "R",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 468
   },
   {
     "player_id": "S76561199435807166",
@@ -7834,7 +7970,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:53:49",
-    "rank": 461
+    "rank": 469
   },
   {
     "player_id": "S76561199481109984",
@@ -7851,7 +7987,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 462
+    "rank": 470
   },
   {
     "player_id": "S76561198019420781",
@@ -7868,7 +8004,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 463
+    "rank": 471
   },
   {
     "player_id": "S76561198409018772",
@@ -7885,7 +8021,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 464
+    "rank": 472
   },
   {
     "player_id": "S76561199514133644",
@@ -7902,7 +8038,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T21:36:17",
-    "rank": 465
+    "rank": 473
   },
   {
     "player_id": "S76561198190921270",
@@ -7919,7 +8055,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 466
+    "rank": 474
   },
   {
     "player_id": "S76561199444872259",
@@ -7936,7 +8072,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T00:04:53",
-    "rank": 467
+    "rank": 475
   },
   {
     "player_id": "S76561199077210894",
@@ -7953,7 +8089,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T23:29:57",
-    "rank": 468
+    "rank": 476
   },
   {
     "player_id": "S76561199067354299",
@@ -7970,7 +8106,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:53:49",
-    "rank": 469
+    "rank": 477
   },
   {
     "player_id": "S76561199242012517",
@@ -7987,7 +8123,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T13:40:43",
-    "rank": 470
+    "rank": 478
   },
   {
     "player_id": "S76561198355193289",
@@ -8004,7 +8140,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-13T22:52:00",
-    "rank": 471
+    "rank": 479
   },
   {
     "player_id": "S76561199015697956",
@@ -8021,7 +8157,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 472
+    "rank": 480
   },
   {
     "player_id": "S76561198811740582",
@@ -8038,7 +8174,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T13:04:25",
-    "rank": 473
+    "rank": 481
   },
   {
     "player_id": "S76561198015820363",
@@ -8055,7 +8191,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 474
+    "rank": 482
   },
   {
     "player_id": "S76561199574454857",
@@ -8072,7 +8208,24 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 475
+    "rank": 483
+  },
+  {
+    "player_id": "S76561199026812541",
+    "driver": "chieffieman chieffieman",
+    "races": 4,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 106,
+    "average_finish": 26.5,
+    "best_lap_ms": 108310,
+    "best_lap": "1:48.310",
+    "best_lap_track": "monza",
+    "best_lap_session_type": "R",
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 484
   },
   {
     "player_id": "S76561199379724560",
@@ -8089,7 +8242,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 476
+    "rank": 485
   },
   {
     "player_id": "S76561199764229143",
@@ -8106,7 +8259,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 477
+    "rank": 486
   },
   {
     "player_id": "S76561198872650666",
@@ -8123,7 +8276,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 478
+    "rank": 487
   },
   {
     "player_id": "S76561199888060772",
@@ -8140,7 +8293,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 479
+    "rank": 488
   },
   {
     "player_id": "S76561199706131982",
@@ -8157,7 +8310,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 480
+    "rank": 489
   },
   {
     "player_id": "S76561198391956358",
@@ -8174,7 +8327,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T13:40:43",
-    "rank": 481
+    "rank": 490
   },
   {
     "player_id": "S76561199067336351",
@@ -8191,7 +8344,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T00:43:20",
-    "rank": 482
+    "rank": 491
   },
   {
     "player_id": "S76561198322845757",
@@ -8208,7 +8361,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 483
+    "rank": 492
   },
   {
     "player_id": "S76561198406991570",
@@ -8225,7 +8378,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T17:23:13",
-    "rank": 484
+    "rank": 493
   },
   {
     "player_id": "S76561198079710445",
@@ -8242,7 +8395,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T21:36:17",
-    "rank": 485
+    "rank": 494
   },
   {
     "player_id": "S76561198984475424",
@@ -8259,7 +8412,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T01:57:10",
-    "rank": 486
+    "rank": 495
   },
   {
     "player_id": "S76561198066968757",
@@ -8276,7 +8429,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 487
+    "rank": 496
   },
   {
     "player_id": "S76561198995306935",
@@ -8293,7 +8446,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 488
+    "rank": 497
   },
   {
     "player_id": "S76561198858917261",
@@ -8310,7 +8463,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 489
+    "rank": 498
   },
   {
     "player_id": "S76561199226019174",
@@ -8327,7 +8480,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T13:40:43",
-    "rank": 490
+    "rank": 499
   },
   {
     "player_id": "S76561197961760714",
@@ -8344,7 +8497,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T16:10:08",
-    "rank": 491
+    "rank": 500
   },
   {
     "player_id": "S76561198410782528",
@@ -8361,7 +8514,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:37:49",
-    "rank": 492
+    "rank": 501
   },
   {
     "player_id": "S76561199507973295",
@@ -8378,7 +8531,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 493
+    "rank": 502
   },
   {
     "player_id": "S76561198331389694",
@@ -8395,7 +8548,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:53:49",
-    "rank": 494
+    "rank": 503
   },
   {
     "player_id": "S76561199057737336",
@@ -8412,7 +8565,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:14:06",
-    "rank": 495
+    "rank": 504
   },
   {
     "player_id": "S76561199170653472",
@@ -8429,7 +8582,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 496
+    "rank": 505
   },
   {
     "player_id": "S76561199488160280",
@@ -8446,7 +8599,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 497
+    "rank": 506
   },
   {
     "player_id": "S76561198085113480",
@@ -8463,7 +8616,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:37:49",
-    "rank": 498
+    "rank": 507
   },
   {
     "player_id": "S76561198271551755",
@@ -8480,7 +8633,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 499
+    "rank": 508
   },
   {
     "player_id": "S76561199108557546",
@@ -8497,7 +8650,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 500
+    "rank": 509
   },
   {
     "player_id": "S76561198029490830",
@@ -8514,7 +8667,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T13:40:43",
-    "rank": 501
+    "rank": 510
   },
   {
     "player_id": "S76561198394283166",
@@ -8531,7 +8684,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T21:36:17",
-    "rank": 502
+    "rank": 511
   },
   {
     "player_id": "S76561197996108655",
@@ -8548,7 +8701,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 503
+    "rank": 512
   },
   {
     "player_id": "S76561199388108141",
@@ -8565,24 +8718,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T23:29:57",
-    "rank": 504
-  },
-  {
-    "player_id": "S76561198057999949",
-    "driver": "Luca Rizzo [SIK]",
-    "races": 1,
-    "wins": 0,
-    "podiums": 0,
-    "points": 0,
-    "average_finish_sum": 28,
-    "average_finish": 28.0,
-    "best_lap_ms": 108552,
-    "best_lap": "1:48.552",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "Q",
-    "last_track": "monza",
-    "last_seen": "2026-03-14T14:55:10",
-    "rank": 505
+    "rank": 513
   },
   {
     "player_id": "S76561198815587824",
@@ -8599,7 +8735,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 506
+    "rank": 514
   },
   {
     "player_id": "S76561199624718987",
@@ -8616,7 +8752,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T00:43:20",
-    "rank": 507
+    "rank": 515
   },
   {
     "player_id": "S76561198137792696",
@@ -8633,7 +8769,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 508
+    "rank": 516
   },
   {
     "player_id": "S76561199346902568",
@@ -8650,7 +8786,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T23:29:57",
-    "rank": 509
+    "rank": 517
   },
   {
     "player_id": "S76561198365451686",
@@ -8667,7 +8803,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 510
+    "rank": 518
   },
   {
     "player_id": "S76561198004214697",
@@ -8684,7 +8820,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 511
+    "rank": 519
   },
   {
     "player_id": "S76561199099846317",
@@ -8701,7 +8837,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 512
+    "rank": 520
   },
   {
     "player_id": "S76561198306370699",
@@ -8718,7 +8854,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 513
+    "rank": 521
   },
   {
     "player_id": "S76561199401723570",
@@ -8735,7 +8871,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 514
+    "rank": 522
   },
   {
     "player_id": "S76561199185081844",
@@ -8752,7 +8888,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:14:06",
-    "rank": 515
+    "rank": 523
   },
   {
     "player_id": "S76561199154263949",
@@ -8769,7 +8905,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 516
+    "rank": 524
   },
   {
     "player_id": "S76561199012742377",
@@ -8786,7 +8922,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 517
+    "rank": 525
   },
   {
     "player_id": "S76561198287526564",
@@ -8803,7 +8939,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T23:29:57",
-    "rank": 518
+    "rank": 526
   },
   {
     "player_id": "S76561198328410286",
@@ -8820,7 +8956,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 519
+    "rank": 527
   },
   {
     "player_id": "S76561198929662027",
@@ -8837,7 +8973,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 520
+    "rank": 528
   },
   {
     "player_id": "S76561198937400518",
@@ -8854,7 +8990,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 521
+    "rank": 529
   },
   {
     "player_id": "S76561198065353791",
@@ -8871,7 +9007,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 522
+    "rank": 530
   },
   {
     "player_id": "S76561198340233810",
@@ -8888,7 +9024,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 523
+    "rank": 531
   },
   {
     "player_id": "S76561198067870073",
@@ -8905,7 +9041,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 524
+    "rank": 532
   },
   {
     "player_id": "S76561198421980094",
@@ -8922,7 +9058,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 525
+    "rank": 533
   },
   {
     "player_id": "S76561198001796915",
@@ -8939,7 +9075,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 526
+    "rank": 534
   },
   {
     "player_id": "S76561198309109528",
@@ -8956,7 +9092,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:10:08",
-    "rank": 527
+    "rank": 535
   },
   {
     "player_id": "S76561198286984832",
@@ -8973,7 +9109,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 528
+    "rank": 536
   },
   {
     "player_id": "S76561199065360240",
@@ -8990,7 +9126,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 529
+    "rank": 537
   },
   {
     "player_id": "S76561199174515097",
@@ -9007,7 +9143,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:23:13",
-    "rank": 530
+    "rank": 538
   },
   {
     "player_id": "S76561198105597876",
@@ -9024,7 +9160,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 531
+    "rank": 539
   },
   {
     "player_id": "S76561198352248173",
@@ -9041,7 +9177,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 532
+    "rank": 540
   },
   {
     "player_id": "S76561198396285054",
@@ -9058,7 +9194,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 533
+    "rank": 541
   },
   {
     "player_id": "S76561199468220642",
@@ -9075,7 +9211,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T16:10:08",
-    "rank": 534
+    "rank": 542
   },
   {
     "player_id": "S76561199151603181",
@@ -9092,7 +9228,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 535
+    "rank": 543
   },
   {
     "player_id": "S76561198850455333",
@@ -9109,7 +9245,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:14:06",
-    "rank": 536
+    "rank": 544
   },
   {
     "player_id": "S76561199835863184",
@@ -9126,7 +9262,24 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T13:14:06",
-    "rank": 537
+    "rank": 545
+  },
+  {
+    "player_id": "S76561197993604216",
+    "driver": "R ussia",
+    "races": 1,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 30,
+    "average_finish": 30.0,
+    "best_lap_ms": null,
+    "best_lap": null,
+    "best_lap_track": null,
+    "best_lap_session_type": null,
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 546
   },
   {
     "player_id": "S76561198088219243",
@@ -9143,7 +9296,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 538
+    "rank": 547
   },
   {
     "player_id": "S76561199558837993",
@@ -9160,7 +9313,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 539
+    "rank": 548
   },
   {
     "player_id": "S76561199697948649",
@@ -9177,7 +9330,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T19:53:49",
-    "rank": 540
+    "rank": 549
   },
   {
     "player_id": "S76561198052339723",
@@ -9194,7 +9347,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T01:57:10",
-    "rank": 541
+    "rank": 550
   },
   {
     "player_id": "S76561199123922780",
@@ -9211,7 +9364,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-13T22:52:00",
-    "rank": 542
+    "rank": 551
   },
   {
     "player_id": "S76561199215247074",
@@ -9228,7 +9381,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 543
+    "rank": 552
   },
   {
     "player_id": "S76561199176358966",
@@ -9245,7 +9398,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 544
+    "rank": 553
   },
   {
     "player_id": "S76561198074058783",
@@ -9262,7 +9415,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 545
+    "rank": 554
   },
   {
     "player_id": "S76561198028699295",
@@ -9279,7 +9432,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 546
+    "rank": 555
   },
   {
     "player_id": "S76561197972447628",
@@ -9296,7 +9449,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-13T22:52:00",
-    "rank": 547
+    "rank": 556
   },
   {
     "player_id": "S76561198098016378",
@@ -9313,7 +9466,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T19:53:49",
-    "rank": 548
+    "rank": 557
   },
   {
     "player_id": "S76561198067535982",
@@ -9330,7 +9483,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T16:10:08",
-    "rank": 549
+    "rank": 558
   },
   {
     "player_id": "S76561197998397900",
@@ -9347,7 +9500,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 550
+    "rank": 559
   },
   {
     "player_id": "S76561199514554647",
@@ -9364,7 +9517,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T17:23:13",
-    "rank": 551
+    "rank": 560
   },
   {
     "player_id": "S76561199387591732",
@@ -9381,7 +9534,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 552
+    "rank": 561
   },
   {
     "player_id": "S76561198785095105",
@@ -9398,7 +9551,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 553
+    "rank": 562
   },
   {
     "player_id": "S76561199671852027",
@@ -9415,7 +9568,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 554
+    "rank": 563
   },
   {
     "player_id": "S76561198832886411",
@@ -9432,7 +9585,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 555
+    "rank": 564
   },
   {
     "player_id": "S76561199547849782",
@@ -9449,7 +9602,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 556
+    "rank": 565
   },
   {
     "player_id": "S76561199085072291",
@@ -9466,7 +9619,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:37:49",
-    "rank": 557
+    "rank": 566
   },
   {
     "player_id": "S76561199467744990",
@@ -9483,7 +9636,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T22:52:00",
-    "rank": 558
+    "rank": 567
   },
   {
     "player_id": "S76561198974511829",
@@ -9500,7 +9653,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T17:23:13",
-    "rank": 559
+    "rank": 568
   },
   {
     "player_id": "S76561198362720908",
@@ -9517,7 +9670,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T00:04:53",
-    "rank": 560
+    "rank": 569
   },
   {
     "player_id": "S76561198825500260",
@@ -9534,7 +9687,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 561
+    "rank": 570
   },
   {
     "player_id": "S76561199046653742",
@@ -9551,7 +9704,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T17:23:13",
-    "rank": 562
+    "rank": 571
   },
   {
     "player_id": "S76561198031001744",
@@ -9568,7 +9721,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 563
+    "rank": 572
   },
   {
     "player_id": "S76561198175353819",
@@ -9585,7 +9738,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 564
+    "rank": 573
   },
   {
     "player_id": "S76561199200570518",
@@ -9602,7 +9755,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 565
+    "rank": 574
   },
   {
     "player_id": "S76561199135650862",
@@ -9619,7 +9772,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 566
+    "rank": 575
   },
   {
     "player_id": "S76561199092937039",
@@ -9636,7 +9789,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T00:04:53",
-    "rank": 567
+    "rank": 576
   },
   {
     "player_id": "S76561198792923475",
@@ -9653,7 +9806,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T00:04:53",
-    "rank": 568
+    "rank": 577
   },
   {
     "player_id": "S76561199225903529",
@@ -9670,7 +9823,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 569
+    "rank": 578
   },
   {
     "player_id": "S76561198246357602",
@@ -9687,7 +9840,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 570
+    "rank": 579
   },
   {
     "player_id": "S76561198094713835",
@@ -9704,7 +9857,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T13:40:43",
-    "rank": 571
+    "rank": 580
   },
   {
     "player_id": "S76561199554927419",
@@ -9721,7 +9874,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 572
+    "rank": 581
   },
   {
     "player_id": "S76561198301495262",
@@ -9738,7 +9891,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T22:52:00",
-    "rank": 573
+    "rank": 582
   },
   {
     "player_id": "S76561198289681508",
@@ -9755,7 +9908,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 574
+    "rank": 583
   },
   {
     "player_id": "S76561198268919054",
@@ -9772,7 +9925,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 575
+    "rank": 584
   },
   {
     "player_id": "S76561198357038625",
@@ -9789,7 +9942,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 576
+    "rank": 585
   },
   {
     "player_id": "S76561198345835818",
@@ -9806,7 +9959,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 577
+    "rank": 586
   },
   {
     "player_id": "S76561199030183353",
@@ -9823,7 +9976,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 578
+    "rank": 587
   },
   {
     "player_id": "S76561198298500883",
@@ -9840,7 +9993,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 579
+    "rank": 588
   },
   {
     "player_id": "S76561198043690464",
@@ -9857,7 +10010,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 580
+    "rank": 589
   },
   {
     "player_id": "S76561199401071489",
@@ -9874,7 +10027,24 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 581
+    "rank": 590
+  },
+  {
+    "player_id": "S76561198118072859",
+    "driver": "baek jaein",
+    "races": 1,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 34,
+    "average_finish": 34.0,
+    "best_lap_ms": null,
+    "best_lap": null,
+    "best_lap_track": null,
+    "best_lap_session_type": null,
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 591
   },
   {
     "player_id": "S76561199209933487",
@@ -9891,7 +10061,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T23:29:57",
-    "rank": 582
+    "rank": 592
   },
   {
     "player_id": "S76561198298449483",
@@ -9908,7 +10078,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T22:52:00",
-    "rank": 583
+    "rank": 593
   },
   {
     "player_id": "S76561199037998086",
@@ -9925,7 +10095,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 584
+    "rank": 594
   },
   {
     "player_id": "S76561198392410885",
@@ -9942,7 +10112,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 585
+    "rank": 595
   },
   {
     "player_id": "S76561199259497803",
@@ -9959,7 +10129,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 586
+    "rank": 596
   },
   {
     "player_id": "S76561199062338080",
@@ -9976,7 +10146,24 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-15T00:51:47",
-    "rank": 587
+    "rank": 597
+  },
+  {
+    "player_id": "S76561197995787309",
+    "driver": "Tassos Vice",
+    "races": 2,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 69,
+    "average_finish": 34.5,
+    "best_lap_ms": null,
+    "best_lap": null,
+    "best_lap_track": null,
+    "best_lap_session_type": null,
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 598
   },
   {
     "player_id": "S76561199044502566",
@@ -9993,7 +10180,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 588
+    "rank": 599
   },
   {
     "player_id": "S76561198735324949",
@@ -10010,7 +10197,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 589
+    "rank": 600
   },
   {
     "player_id": "S76561199559056118",
@@ -10027,7 +10214,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 590
+    "rank": 601
   },
   {
     "player_id": "S76561198879287160",
@@ -10044,7 +10231,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:37:49",
-    "rank": 591
+    "rank": 602
   },
   {
     "player_id": "S76561199211185865",
@@ -10061,7 +10248,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 592
+    "rank": 603
   },
   {
     "player_id": "S76561198815679059",
@@ -10078,7 +10265,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 593
+    "rank": 604
   },
   {
     "player_id": "S76561199811858535",
@@ -10095,7 +10282,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T01:21:24",
-    "rank": 594
+    "rank": 605
   },
   {
     "player_id": "S76561198728267656",
@@ -10112,7 +10299,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 595
+    "rank": 606
   },
   {
     "player_id": "S76561199063636169",
@@ -10129,7 +10316,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 596
+    "rank": 607
   },
   {
     "player_id": "S76561199115878780",
@@ -10146,7 +10333,7 @@
     "best_lap_session_type": "R",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:37:49",
-    "rank": 597
+    "rank": 608
   },
   {
     "player_id": "S76561198768395367",
@@ -10163,7 +10350,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T22:52:00",
-    "rank": 598
+    "rank": 609
   },
   {
     "player_id": "S76561199069333891",
@@ -10180,7 +10367,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 599
+    "rank": 610
   },
   {
     "player_id": "S76561198163757311",
@@ -10197,7 +10384,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 600
+    "rank": 611
   },
   {
     "player_id": "S76561199210005150",
@@ -10214,7 +10401,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 601
+    "rank": 612
   },
   {
     "player_id": "S76561198051924589",
@@ -10231,7 +10418,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 602
+    "rank": 613
   },
   {
     "player_id": "S76561198133616141",
@@ -10248,7 +10435,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T01:21:24",
-    "rank": 603
+    "rank": 614
   },
   {
     "player_id": "S76561198034070962",
@@ -10265,7 +10452,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 604
+    "rank": 615
   },
   {
     "player_id": "S76561198041001951",
@@ -10282,7 +10469,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-15T13:52:15",
-    "rank": 605
+    "rank": 616
   },
   {
     "player_id": "S76561198784520605",
@@ -10299,7 +10486,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T20:30:08",
-    "rank": 606
+    "rank": 617
   },
   {
     "player_id": "S76561198384300031",
@@ -10316,7 +10503,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 607
+    "rank": 618
   },
   {
     "player_id": "S76561199028501946",
@@ -10333,7 +10520,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 608
+    "rank": 619
   },
   {
     "player_id": "S76561198007701587",
@@ -10350,7 +10537,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 609
+    "rank": 620
   },
   {
     "player_id": "S76561198432994948",
@@ -10367,7 +10554,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T23:37:49",
-    "rank": 610
+    "rank": 621
   },
   {
     "player_id": "S76561199497369823",
@@ -10384,7 +10571,24 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 611
+    "rank": 622
+  },
+  {
+    "player_id": "S76561198316437269",
+    "driver": "Paul Diesenreither",
+    "races": 1,
+    "wins": 0,
+    "podiums": 0,
+    "points": 0,
+    "average_finish_sum": 37,
+    "average_finish": 37.0,
+    "best_lap_ms": null,
+    "best_lap": null,
+    "best_lap_track": null,
+    "best_lap_session_type": null,
+    "last_track": "monza",
+    "last_seen": "2026-03-15T15:08:40",
+    "rank": 623
   },
   {
     "player_id": "S76561199081762006",
@@ -10401,7 +10605,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T19:53:49",
-    "rank": 612
+    "rank": 624
   },
   {
     "player_id": "S76561199569222152",
@@ -10418,7 +10622,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 613
+    "rank": 625
   },
   {
     "player_id": "S76561199155039448",
@@ -10435,7 +10639,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T23:37:49",
-    "rank": 614
+    "rank": 626
   },
   {
     "player_id": "S76561199167285197",
@@ -10452,7 +10656,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 615
+    "rank": 627
   },
   {
     "player_id": "S76561199861742778",
@@ -10469,7 +10673,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T16:10:08",
-    "rank": 616
+    "rank": 628
   },
   {
     "player_id": "S76561199107339450",
@@ -10486,7 +10690,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 617
+    "rank": 629
   },
   {
     "player_id": "S76561198260487851",
@@ -10503,7 +10707,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T01:21:24",
-    "rank": 618
+    "rank": 630
   },
   {
     "player_id": "S76561199529718725",
@@ -10520,7 +10724,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 619
+    "rank": 631
   },
   {
     "player_id": "S76561198850356671",
@@ -10537,7 +10741,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 620
+    "rank": 632
   },
   {
     "player_id": "S76561199636121460",
@@ -10554,7 +10758,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 621
+    "rank": 633
   },
   {
     "player_id": "S76561198053999264",
@@ -10571,7 +10775,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T23:29:57",
-    "rank": 622
+    "rank": 634
   },
   {
     "player_id": "S76561198417403198",
@@ -10588,7 +10792,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 623
+    "rank": 635
   },
   {
     "player_id": "S76561198754698813",
@@ -10605,7 +10809,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T22:52:00",
-    "rank": 624
+    "rank": 636
   },
   {
     "player_id": "S76561199161212721",
@@ -10622,7 +10826,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:53:49",
-    "rank": 625
+    "rank": 637
   },
   {
     "player_id": "S76561199074331486",
@@ -10639,7 +10843,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 626
+    "rank": 638
   },
   {
     "player_id": "S76561199368668361",
@@ -10656,7 +10860,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T02:03:53",
-    "rank": 627
+    "rank": 639
   },
   {
     "player_id": "S76561198340841618",
@@ -10673,7 +10877,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 628
+    "rank": 640
   },
   {
     "player_id": "S76561198760652238",
@@ -10690,7 +10894,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T22:52:00",
-    "rank": 629
+    "rank": 641
   },
   {
     "player_id": "S76561198287937319",
@@ -10707,7 +10911,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 630
+    "rank": 642
   },
   {
     "player_id": "S76561199813366459",
@@ -10724,7 +10928,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 631
+    "rank": 643
   },
   {
     "player_id": "S76561199842817823",
@@ -10741,7 +10945,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T17:59:58",
-    "rank": 632
+    "rank": 644
   },
   {
     "player_id": "S76561198075561706",
@@ -10758,7 +10962,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 633
+    "rank": 645
   },
   {
     "player_id": "S76561198873754160",
@@ -10775,7 +10979,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T23:37:49",
-    "rank": 634
+    "rank": 646
   },
   {
     "player_id": "S76561198384462162",
@@ -10792,7 +10996,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 635
+    "rank": 647
   },
   {
     "player_id": "S76561199576722306",
@@ -10809,7 +11013,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 636
+    "rank": 648
   },
   {
     "player_id": "S76561199025686180",
@@ -10826,7 +11030,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 637
+    "rank": 649
   },
   {
     "player_id": "S76561198187335531",
@@ -10843,7 +11047,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 638
+    "rank": 650
   },
   {
     "player_id": "S76561198686578478",
@@ -10860,7 +11064,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 639
+    "rank": 651
   },
   {
     "player_id": "S76561199244032324",
@@ -10877,7 +11081,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 640
+    "rank": 652
   },
   {
     "player_id": "S76561198091634808",
@@ -10894,7 +11098,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 641
+    "rank": 653
   },
   {
     "player_id": "S76561198800702624",
@@ -10911,7 +11115,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 642
+    "rank": 654
   },
   {
     "player_id": "S76561199483880643",
@@ -10928,7 +11132,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 643
+    "rank": 655
   },
   {
     "player_id": "S76561198864364373",
@@ -10945,7 +11149,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 644
+    "rank": 656
   },
   {
     "player_id": "S76561199234852165",
@@ -10962,7 +11166,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 645
+    "rank": 657
   },
   {
     "player_id": "S76561199620005179",
@@ -10979,7 +11183,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 646
+    "rank": 658
   },
   {
     "player_id": "S76561198272294235",
@@ -10996,7 +11200,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 647
+    "rank": 659
   },
   {
     "player_id": "S76561198321761580",
@@ -11013,7 +11217,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 648
+    "rank": 660
   },
   {
     "player_id": "S76561199705340534",
@@ -11030,7 +11234,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T14:30:44",
-    "rank": 649
+    "rank": 661
   },
   {
     "player_id": "S76561199163410270",
@@ -11047,7 +11251,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T23:37:49",
-    "rank": 650
+    "rank": 662
   },
   {
     "player_id": "S76561199563748811",
@@ -11064,7 +11268,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 651
+    "rank": 663
   },
   {
     "player_id": "S76561198320676410",
@@ -11081,7 +11285,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 652
+    "rank": 664
   },
   {
     "player_id": "S76561199860140532",
@@ -11098,7 +11302,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T16:46:36",
-    "rank": 653
+    "rank": 665
   },
   {
     "player_id": "S76561198004284490",
@@ -11115,7 +11319,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 654
+    "rank": 666
   },
   {
     "player_id": "S76561199041321576",
@@ -11132,7 +11336,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 655
+    "rank": 667
   },
   {
     "player_id": "S76561199056833100",
@@ -11149,7 +11353,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T19:53:49",
-    "rank": 656
+    "rank": 668
   },
   {
     "player_id": "S76561199187538046",
@@ -11166,7 +11370,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T19:53:49",
-    "rank": 657
+    "rank": 669
   },
   {
     "player_id": "S76561199231846667",
@@ -11183,7 +11387,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:08:17",
-    "rank": 658
+    "rank": 670
   },
   {
     "player_id": "S76561199052377356",
@@ -11200,7 +11404,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 659
+    "rank": 671
   },
   {
     "player_id": "S76561198307710805",
@@ -11217,24 +11421,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 660
-  },
-  {
-    "player_id": "S76561197995787309",
-    "driver": "Tassos Vice",
-    "races": 1,
-    "wins": 0,
-    "podiums": 0,
-    "points": 0,
-    "average_finish_sum": 43,
-    "average_finish": 43.0,
-    "best_lap_ms": null,
-    "best_lap": null,
-    "best_lap_track": null,
-    "best_lap_session_type": null,
-    "last_track": "monza",
-    "last_seen": "2026-03-15T14:30:44",
-    "rank": 661
+    "rank": 672
   },
   {
     "player_id": "S76561197963365686",
@@ -11251,7 +11438,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 662
+    "rank": 673
   },
   {
     "player_id": "S76561198125879530",
@@ -11268,7 +11455,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 663
+    "rank": 674
   },
   {
     "player_id": "S76561199529680159",
@@ -11285,7 +11472,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 664
+    "rank": 675
   },
   {
     "player_id": "S76561198011239328",
@@ -11302,7 +11489,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 665
+    "rank": 676
   },
   {
     "player_id": "S76561198193729513",
@@ -11319,7 +11506,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-15T00:16:09",
-    "rank": 666
+    "rank": 677
   },
   {
     "player_id": "S76561198052396697",
@@ -11336,7 +11523,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T15:33:41",
-    "rank": 667
+    "rank": 678
   },
   {
     "player_id": "S76561198769011956",
@@ -11353,7 +11540,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 668
+    "rank": 679
   },
   {
     "player_id": "S76561199197501180",
@@ -11370,7 +11557,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T14:17:30",
-    "rank": 669
+    "rank": 680
   },
   {
     "player_id": "S76561197986307409",
@@ -11387,7 +11574,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 670
+    "rank": 681
   },
   {
     "player_id": "S76561199126773830",
@@ -11404,7 +11591,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T18:37:49",
-    "rank": 671
+    "rank": 682
   },
   {
     "player_id": "S76561198175404171",
@@ -11421,7 +11608,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T23:00:59",
-    "rank": 672
+    "rank": 683
   },
   {
     "player_id": "S76561198413636686",
@@ -11438,7 +11625,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 673
+    "rank": 684
   },
   {
     "player_id": "S76561199170499494",
@@ -11455,7 +11642,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 674
+    "rank": 685
   },
   {
     "player_id": "S76561199260651772",
@@ -11472,7 +11659,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T22:14:10",
-    "rank": 675
+    "rank": 686
   },
   {
     "player_id": "S76561199033459538",
@@ -11489,7 +11676,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T14:55:10",
-    "rank": 676
+    "rank": 687
   },
   {
     "player_id": "S76561199002099068",
@@ -11506,7 +11693,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-13T21:00:56",
-    "rank": 677
+    "rank": 688
   },
   {
     "player_id": "S76561199041250465",
@@ -11523,7 +11710,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 678
+    "rank": 689
   },
   {
     "player_id": "S76561198965265704",
@@ -11540,7 +11727,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 679
+    "rank": 690
   },
   {
     "player_id": "S76561197996246430",
@@ -11557,7 +11744,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 680
+    "rank": 691
   },
   {
     "player_id": "S76561199387572675",
@@ -11574,7 +11761,7 @@
     "best_lap_session_type": "Q",
     "last_track": "monza",
     "last_seen": "2026-03-14T19:15:44",
-    "rank": 681
+    "rank": 692
   },
   {
     "player_id": "S76561198874002995",
@@ -11591,7 +11778,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 682
+    "rank": 693
   },
   {
     "player_id": "S76561199071262983",
@@ -11608,7 +11795,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 683
+    "rank": 694
   },
   {
     "player_id": "S76561198351648947",
@@ -11625,7 +11812,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 684
+    "rank": 695
   },
   {
     "player_id": "S76561198119339878",
@@ -11642,7 +11829,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T21:46:15",
-    "rank": 685
+    "rank": 696
   },
   {
     "player_id": "S76561198201312695",
@@ -11659,7 +11846,7 @@
     "best_lap_session_type": null,
     "last_track": "monza",
     "last_seen": "2026-03-14T22:24:34",
-    "rank": 686
+    "rank": 697
   },
   {
     "player_id": "S76561198396304440",
@@ -11676,74 +11863,6 @@
     "best_lap_session_type": "Q",
     "last_track": null,
     "last_seen": null,
-    "rank": 687
-  },
-  {
-    "player_id": "S76561199032998856",
-    "driver": "Valerka Kotov",
-    "races": 0,
-    "wins": 0,
-    "podiums": 0,
-    "points": 0,
-    "average_finish_sum": 0,
-    "average_finish": null,
-    "best_lap_ms": 110257,
-    "best_lap": "1:50.257",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "Q",
-    "last_track": null,
-    "last_seen": null,
-    "rank": 688
-  },
-  {
-    "player_id": "S76561198394356539",
-    "driver": "Vitalii Obukhov",
-    "races": 0,
-    "wins": 0,
-    "podiums": 0,
-    "points": 0,
-    "average_finish_sum": 0,
-    "average_finish": null,
-    "best_lap_ms": 108392,
-    "best_lap": "1:48.392",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "Q",
-    "last_track": null,
-    "last_seen": null,
-    "rank": 689
-  },
-  {
-    "player_id": "S76561199098030950",
-    "driver": "Vladimir Eremin",
-    "races": 0,
-    "wins": 0,
-    "podiums": 0,
-    "points": 0,
-    "average_finish_sum": 0,
-    "average_finish": null,
-    "best_lap_ms": 110630,
-    "best_lap": "1:50.630",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "Q",
-    "last_track": null,
-    "last_seen": null,
-    "rank": 690
-  },
-  {
-    "player_id": "S76561199066952614",
-    "driver": "Wesley Daniels",
-    "races": 0,
-    "wins": 0,
-    "podiums": 0,
-    "points": 0,
-    "average_finish_sum": 0,
-    "average_finish": null,
-    "best_lap_ms": 109257,
-    "best_lap": "1:49.257",
-    "best_lap_track": "monza",
-    "best_lap_session_type": "Q",
-    "last_track": null,
-    "last_seen": null,
-    "rank": 691
+    "rank": 698
   }
 ]
